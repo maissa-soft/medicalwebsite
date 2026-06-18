@@ -15,11 +15,11 @@
       "prep-pharma",
       "ass-med"
     ],
-    "minAverage": 0,
+    "minAverage": 10.33,
     "maxAverage": 14.9,
     "minDetail": {
-      "value": 0,
-      "specialty": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+      "value": 10.33,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
       "wilaya": "Bordj badji mokhtar"
     },
     "maxDetail": {
@@ -46,12 +46,12 @@
       "hygiene",
       "ass-med"
     ],
-    "minAverage": 0,
+    "minAverage": 12.94,
     "maxAverage": 16.79,
     "minDetail": {
-      "value": 0,
-      "specialty": "ERGOTHERAPEUTES DE SANTE PUBLIQUE",
-      "wilaya": "El oued"
+      "value": 12.94,
+      "specialty": "ASSISTANTS MEDICAUX DE SANTE PUBLIQUE",
+      "wilaya": "El mghaier"
     },
     "maxDetail": {
       "value": 16.79,
@@ -73,12 +73,12 @@
       "ass-med",
       "ass-soc"
     ],
-    "minAverage": 0,
+    "minAverage": 13.12,
     "maxAverage": 15.38,
     "minDetail": {
-      "value": 0,
+      "value": 13.12,
       "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
-      "wilaya": "Bordj bou arreridj"
+      "wilaya": "Tizi ouzou"
     },
     "maxDetail": {
       "value": 15.38,
@@ -104,12 +104,12 @@
       "hygiene",
       "ass-med"
     ],
-    "minAverage": 0,
+    "minAverage": 12.23,
     "maxAverage": 16.25,
     "minDetail": {
-      "value": 0,
+      "value": 12.23,
       "specialty": "PROTHESISTES DENTAIRES DE SANTE PUBLIQUE",
-      "wilaya": "Djanet"
+      "wilaya": "Illizi"
     },
     "maxDetail": {
       "value": 16.25,
@@ -133,12 +133,12 @@
       "ass-med",
       "ass-soc"
     ],
-    "minAverage": 0,
+    "minAverage": 11.59,
     "maxAverage": 15.76,
     "minDetail": {
-      "value": 0,
-      "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
-      "wilaya": "Bordj badji mokhtar"
+      "value": 11.59,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
+      "wilaya": "Beni abbes"
     },
     "maxDetail": {
       "value": 15.76,
@@ -246,12 +246,12 @@
       "hygiene",
       "ass-med"
     ],
-    "minAverage": 0,
+    "minAverage": 11.58,
     "maxAverage": 16.12,
     "minDetail": {
-      "value": 0,
+      "value": 11.58,
       "specialty": "HYGIENISTES DE SANTE PUBLIQUE",
-      "wilaya": "Bordj badji mokhtar"
+      "wilaya": "Beni abbes"
     },
     "maxDetail": {
       "value": 16.12,
@@ -283,12 +283,12 @@
       "ass-med",
       "ass-soc"
     ],
-    "minAverage": 0,
+    "minAverage": 11.95,
     "maxAverage": 16.7,
     "minDetail": {
-      "value": 0,
-      "specialty": "ERGOTHERAPEUTES DE SANTE PUBLIQUE",
-      "wilaya": "In guezzam"
+      "value": 11.95,
+      "specialty": "APPAREILLEURS ORTHOPEDISTES DE SANTE PUBLIQUE",
+      "wilaya": "Illizi"
     },
     "maxDetail": {
       "value": 16.7,
@@ -343,11 +343,11 @@
       "labo",
       "prep-pharma"
     ],
-    "minAverage": 0,
+    "minAverage": 15.79,
     "maxAverage": 16.6,
     "minDetail": {
-      "value": 0,
-      "specialty": "PSYCHOMOTRICIENS DE SANTE PUBLIQUE",
+      "value": 15.79,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
       "wilaya": "Setif"
     },
     "maxDetail": {
@@ -448,7 +448,10 @@
     "name": "INFSPM CONSTANTINE",
     "type": "INFSPM",
     "wilaya": "Constantine",
-    "emails": ["contact@paramedical-dz.com", "roumeissa@paramedical-dz.com"],
+    "emails": [
+      "contact@paramedical-dz.com",
+      "roumeissa@paramedical-dz.com"
+    ],
     "location": "Constantine",
     "bacAverage": 14,
     "description": "Institut National de Formation Supérieure Paramédicale.",
@@ -692,12 +695,12 @@
     "specialties": [
       "sage-femme"
     ],
-    "minAverage": 0,
+    "minAverage": 12.45,
     "maxAverage": 16.23,
     "minDetail": {
-      "value": 0,
+      "value": 12.45,
       "specialty": "SAGE FEMME DE SANTE PUBLIQUE",
-      "wilaya": "Bordj badji mokhtar"
+      "wilaya": "Beni abbes"
     },
     "maxDetail": {
       "value": 16.23,

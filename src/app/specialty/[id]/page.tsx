@@ -60,7 +60,7 @@ export default function SpecialtyDetail({ params }: { params: Promise<{ id: stri
             <p className="text-slate-600 leading-relaxed text-lg mb-8">{desc}</p>
 
             <h3 className="text-xl font-bold text-slate-800 mb-3">
-              {language === 'ar' ? 'الآفاق المهنية' : 'Débouchés Professionnels'}
+              {language === 'ar' ? 'الآفاق التعليمية' : 'Débouchés Professionnels'}
             </h3>
             <p className="bg-emerald-50 border border-emerald-100 text-emerald-800 p-4 rounded-xl font-medium shadow-inner">
               {career}

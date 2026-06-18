@@ -164,11 +164,11 @@ export const UI_TRANSLATIONS: Record<string, Record<'fr' | 'ar', string>> = {
   // Home Page
   "home.hero.title": {
     fr: "Votre Avenir dans le Paramédical.",
-    ar: "مستقبلك المهني في الشبه الطبي."
+    ar: "مستقبلك التعليمي في الشبه الطبي."
   },
   "home.hero.desc": {
     fr: "La plateforme de référence pour l'orientation supérieure paramédicale en Algérie. Découvrez les meilleures opportunités pour votre carrière.",
-    ar: "المنصة المرجعية للتوجيه في التكوين العالي للشبه الطبي في الجزائر. اكتشف أفضل الفرص لمستقبلك المهني."
+    ar: "المنصة المرجعية للتوجيه في التكوين العالي للشبه الطبي في الجزائر. اكتشف أفضل الفرص لمستقبلك التعليمي."
   },
   "home.hero.simulator": { fr: "Simulateur d'Admission", ar: "محاكي القبول" },
   "home.hero.view_institutes": { fr: "Voir les Instituts", ar: "عرض المعاهد" },
@@ -188,7 +188,7 @@ export const UI_TRANSLATIONS: Record<string, Record<'fr' | 'ar', string>> = {
   "home.reason3.title": { fr: "Orientation Précise", ar: "توجيه دقيق" },
   "home.reason3.desc": {
     fr: "Découvrez les spécialités, la durée de formation et les débouchés professionnels.",
-    ar: "اكتشف التخصصات المختلفة، ومدة التكوين، والآفاق المهنية لكل تخصص."
+    ar: "اكتشف التخصصات المختلفة، ومدة التكوين، والآفاق التعليمية لكل تخصص."
   },
 
   // Averages Page
@@ -233,7 +233,7 @@ export const UI_TRANSLATIONS: Record<string, Record<'fr' | 'ar', string>> = {
     ar: "اكتشف جميع تخصصات التكوين المتوفرة في المعاهد الوطنية."
   },
   "spec.duration": { fr: "Durée d'études", ar: "مدة الدراسة" },
-  "spec.career": { fr: "Débouchés", ar: "الآفاق المهنية" },
+  "spec.career": { fr: "Débouchés", ar: "الآفاق التعليمية" },
   "spec.details.program": { fr: "Programme d'études", ar: "البرنامج الدراسي" },
   "spec.details.back": { fr: "← Retour aux spécialités", ar: "← العودة إلى التخصصات" },
   "spec.sem": { fr: "Semestre", ar: "السداسي" },

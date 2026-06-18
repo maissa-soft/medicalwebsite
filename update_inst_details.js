@@ -8,10 +8,12 @@ const updatedInstitutes = institutes.map(inst => {
     const instAvg = averages.filter(a => a.instituteId === inst.id);
     if (instAvg.length === 0) return inst;
 
-    // Sort to find Min and Max
-    const sorted = [...instAvg].sort((a, b) => a.average - b.average);
-    const minRec = sorted[0];
-    const maxRec = sorted[sorted.length - 1];
+    // Sort to find Min and Max (ignore averages of 0 for Min)
+    const nonZeroAvg = instAvg.filter(a => a.average > 0);
+    const minRec = nonZeroAvg.length > 0
+        ? [...nonZeroAvg].sort((a, b) => a.average - b.average)[0]
+        : [...instAvg].sort((a, b) => a.average - b.average)[0];
+    const maxRec = [...instAvg].sort((a, b) => a.average - b.average)[instAvg.length - 1];
 
     const getSpecName = (id) => specialties.find(s => s.id === id)?.name || id;
 

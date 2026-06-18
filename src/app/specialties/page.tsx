@@ -19,7 +19,7 @@ export default function SpecialtiesPage() {
         </h1>
         <p className="text-lg md:text-xl text-slate-500 max-w-2xl mx-auto animate-fade-in leading-relaxed" style={{ animationDelay: '0.1s' }}>
           {language === 'ar'
-            ? 'اكتشف تخصصاتنا الدراسية وتعرّف على الآفاق المهنية، المسارات التكوينية والمواد المدرّسة بمعاملاتها وأرصدتها.'
+            ? 'اكتشف تخصصاتنا الدراسية وتعرّف على الآفاق التعليمية، المسارات التكوينية والمواد المدرّسة بمعاملاتها وأرصدتها.'
             : 'Explorez nos filières d\'études pour découvrir les débouchés, les parcours et les matières enseignées avec coefficients et crédits.'}
         </p>
       </header>
