@@ -1,7 +1,6 @@
 'use client';
 
 import InstitutesGallery from '@/components/InstitutesGallery';
-import AdSpot from '@/components/AdSpot';
 import { useLanguage } from '@/components/LanguageContext';
 
 export default function InstitutesPage() {
@@ -23,7 +22,7 @@ export default function InstitutesPage() {
         </p>
       </header>
 
-      <AdSpot format="banner" />
+
 
       <div className="mt-12">
         <InstitutesGallery />

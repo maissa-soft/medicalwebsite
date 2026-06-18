@@ -4,7 +4,6 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { DataService } from '@/services/dataService';
 import SpecialtyCard from '@/components/SpecialtyCard';
-import AdSpot from '@/components/AdSpot';
 import { useLanguage } from '@/components/LanguageContext';
 import { translateInstituteName, translateWilaya, translateSpecialtyName } from '@/data/translations';
 import { use, useEffect, useState } from 'react';
@@ -90,8 +89,8 @@ export default function InstituteDetail({ params }: { params: Promise<{ id: stri
         </div>
       </header>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
-        <section className="lg:col-span-2">
+      <div className="max-w-5xl mx-auto">
+        <section>
           <h2 className="text-2xl font-bold text-slate-800 mb-4">
             {language === 'ar' ? 'حول المعهد' : 'À propos de l\'institut'}
           </h2>
@@ -146,12 +145,6 @@ export default function InstituteDetail({ params }: { params: Promise<{ id: stri
             ))}
           </div>
         </section>
-
-        <aside className="lg:col-span-1">
-          <div className="sticky top-28">
-            <AdSpot format="rectangle" />
-          </div>
-        </aside>
       </div>
     </div>
   );

@@ -4,7 +4,6 @@ import Link from 'next/link';
 import { DataService } from '@/services/dataService';
 import InstituteCard from '@/components/InstituteCard';
 import ParticleBackground from '@/components/ParticleBackground';
-import AdSpot from '@/components/AdSpot';
 import { useLanguage } from '@/components/LanguageContext';
 
 export default function Home() {
@@ -16,7 +15,7 @@ export default function Home() {
       <header className="relative bg-slate-950 pt-24 pb-32 px-4 text-center mb-16 overflow-hidden min-h-[70vh] flex flex-col justify-center items-center">
         {/* AntiGravity Style Particles */}
         <ParticleBackground />
-        
+
         {/* Ambient Glows for Dark Mode */}
         <div className="absolute inset-0 overflow-hidden pointer-events-none">
           <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[60%] h-[60%] rounded-full bg-primary/5 blur-[120px]"></div>
@@ -36,23 +35,23 @@ export default function Home() {
           <h1 className="text-5xl md:text-7xl font-extrabold text-white mb-8 tracking-tighter leading-[1.1] drop-shadow-md">
             {t("home.hero.title")}
           </h1>
-          
+
           <p className="text-lg md:text-xl text-slate-400 mb-12 font-medium max-w-2xl mx-auto leading-relaxed">
             {t("home.hero.desc")}
           </p>
 
           <div className="flex flex-col sm:flex-row justify-center items-center gap-8 mb-16">
-            <Link 
-              href="/moyennes" 
+            <Link
+              href="/moyennes"
               className="px-8 py-3 bg-primary text-white rounded-full font-bold shadow-xl shadow-primary/40 hover:bg-primary-dark hover:scale-105 transition-all duration-300"
             >
               {t("home.hero.simulator")}
             </Link>
-            <Link 
-              href="/institutes" 
+            <Link
+              href="/institutes"
               className="text-slate-500 hover:text-white font-bold transition-colors flex items-center gap-2 group"
             >
-              {t("home.hero.view_institutes")} 
+              {t("home.hero.view_institutes")}
               <span className="transition-transform group-hover:translate-x-1 rtl:group-hover:-translate-x-1">
                 {language === 'ar' ? '←' : '→'}
               </span>
@@ -85,7 +84,7 @@ export default function Home() {
             {t("home.view_all")} {language === 'ar' ? '←' : '→'}
           </Link>
         </div>
-        
+
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {topInstitutes.map(inst => (
             <InstituteCard key={inst.id} institute={inst} />
@@ -93,9 +92,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-16">
-        <AdSpot format="banner" />
-      </section>
+      {/* Removed AdSpot banner */}
 
       <section className="bg-slate-900 text-white py-20 mt-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">

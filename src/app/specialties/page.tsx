@@ -2,7 +2,6 @@
 
 import React from 'react';
 import SpecialtiesGallery from '@/components/SpecialtiesGallery';
-import AdSpot from '@/components/AdSpot';
 import { useLanguage } from '@/components/LanguageContext';
 
 export default function SpecialtiesPage() {
@@ -24,9 +23,7 @@ export default function SpecialtiesPage() {
         </p>
       </header>
 
-      <div className="mb-12">
-        <AdSpot format="banner" />
-      </div>
+
 
       <SpecialtiesGallery />
     </main>

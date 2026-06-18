@@ -15,7 +15,6 @@ export default async function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const adsenseClientId = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
   const cookieStore = await cookies();
   const localeCookie = cookieStore.get("NEXT_LOCALE");
   const locale = (localeCookie?.value as Language) || "fr";
@@ -24,13 +23,11 @@ export default async function RootLayout({
   return (
     <html lang={locale} dir={dir} className="scroll-smooth" data-scroll-behavior="smooth">
       <body className="flex flex-col min-h-screen">
-        {adsenseClientId && (
-          <script
-            async
-            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${adsenseClientId}`}
-            crossOrigin="anonymous"
-          />
-        )}
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5603304619422783"
+          crossOrigin="anonymous"
+        />
         <LanguageProvider initialLanguage={locale}>
           <Navbar />
           <main className="flex-grow">

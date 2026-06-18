@@ -2,7 +2,6 @@
 
 import { useState, useMemo } from 'react';
 import { useAverages, useAverageFilters } from '@/hooks/useAverages';
-import AdSpot from '@/components/AdSpot';
 import { useLanguage } from '@/components/LanguageContext';
 import { translateWilaya, translateSpecialtyName } from '@/data/translations';
 
@@ -42,7 +41,7 @@ export default function MoyennesPage() {
         </p>
       </header>
 
-      <AdSpot format="banner" />
+
 
       {/* Barre de filtres */}
       <div className="bg-white p-6 rounded-2xl shadow-sm border border-slate-200 mb-8 flex flex-col md:flex-row gap-6 mt-12 items-center">

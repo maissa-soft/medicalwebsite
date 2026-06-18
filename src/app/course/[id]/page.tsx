@@ -1,7 +1,6 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import { courses, specialties } from '@/data/mockData';
-import AdSpot from '@/components/AdSpot';
 
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
   const resolvedParams = await params;
@@ -123,10 +122,7 @@ export default async function CourseDetail({ params }: { params: Promise<{ id: s
             </div>
           </div>
 
-          {/* Ad Spot Banner */}
-          <div className="w-full">
-            <AdSpot format="banner" />
-          </div>
+
 
           {/* Viewer / Preview Section */}
           <div className="glass-card p-4 md:p-6 rounded-3xl">
@@ -251,10 +247,7 @@ export default async function CourseDetail({ params }: { params: Promise<{ id: s
             </div>
           </div>
 
-          {/* Ad Spot Sidebar */}
-          <div className="sticky top-28">
-            <AdSpot format="rectangle" />
-          </div>
+
         </div>
       </div>
     </div>

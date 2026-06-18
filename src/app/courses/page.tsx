@@ -2,7 +2,6 @@
 
 import { courses } from '@/data/mockData';
 import CourseItem from '@/components/CourseItem';
-import AdSpot from '@/components/AdSpot';
 import { useLanguage } from '@/components/LanguageContext';
 
 export default function CoursesPage() {
@@ -24,7 +23,7 @@ export default function CoursesPage() {
         </p>
       </header>
 
-      <AdSpot format="banner" />
+
 
       <div className="mt-12 flex flex-col gap-4">
         {courses.map(course => (
