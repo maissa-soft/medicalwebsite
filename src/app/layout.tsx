@@ -23,14 +23,13 @@ export default async function RootLayout({
   return (
     <html lang={locale} dir={dir} className="scroll-smooth" data-scroll-behavior="smooth">
       <head>
-        <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE"/>
-      </head>
-      <body className="flex flex-col min-h-screen">
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5603304619422783"
           crossOrigin="anonymous"
         />
+      </head>
+      <body className="flex flex-col min-h-screen">
         <LanguageProvider initialLanguage={locale}>
           <Navbar />
           <main className="flex-grow">
