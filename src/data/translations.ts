@@ -172,7 +172,7 @@ export const UI_TRANSLATIONS: Record<string, Record<'fr' | 'ar', string>> = {
   },
   "home.hero.simulator": { fr: "Simulateur d'Admission", ar: "محاكي القبول" },
   "home.hero.view_institutes": { fr: "Voir les Instituts", ar: "عرض المعاهد" },
-  "home.popular_institutes": { fr: "Instituts Populaires", ar: "معاهد شعبية" },
+  "home.popular_institutes": { fr: "Instituts Populaires", ar: "معاهد مشهورة" },
   "home.view_all": { fr: "Voir tout", ar: "عرض الكل" },
   "home.why_choose": { fr: "Pourquoi choisir Paramédical DZ ?", ar: "لماذا تختار منصة شبه الطبي ؟" },
   "home.reason1.title": { fr: "Informations Officielles", ar: "معلومات رسمية" },

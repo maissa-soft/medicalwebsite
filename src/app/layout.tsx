@@ -22,6 +22,9 @@ export default async function RootLayout({
 
   return (
     <html lang={locale} dir={dir} className="scroll-smooth" data-scroll-behavior="smooth">
+      <head>
+        <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE"/>
+      </head>
       <body className="flex flex-col min-h-screen">
         <script
           async
