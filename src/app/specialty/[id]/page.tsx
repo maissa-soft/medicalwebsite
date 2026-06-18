@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { DataService } from '@/services/dataService';
 import CoursesGallery from '@/components/CoursesGallery';
 import SpecialtyProgram from '@/components/SpecialtyProgram';
-import AdSpot from '@/components/AdSpot';
+
 import { useLanguage } from '@/components/LanguageContext';
 import { translateSpecialtyName, translateSpecialtyDesc, translateSpecialtyCareer, translateStudyDuration } from '@/data/translations';
 import { use } from 'react';
@@ -51,8 +51,8 @@ export default function SpecialtyDetail({ params }: { params: Promise<{ id: stri
         </div>
       </header>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-12">
-        <section className="lg:col-span-2 flex flex-col gap-12">
+      <div className="flex flex-col gap-12">
+        <section className="flex flex-col gap-12">
           <div className="glass-card p-8 rounded-2xl">
             <h2 className="text-2xl font-bold text-slate-800 mb-4 border-b border-slate-100 pb-3">
               {language === 'ar' ? 'حول التخصص' : 'À Propos'}
@@ -80,11 +80,7 @@ export default function SpecialtyDetail({ params }: { params: Promise<{ id: stri
           </div>
         </section>
 
-        <aside className="lg:col-span-1">
-          <div className="sticky top-28 grid gap-8">
-            <AdSpot format="rectangle" />
-          </div>
-        </aside>
+
       </div>
     </div>
   );
