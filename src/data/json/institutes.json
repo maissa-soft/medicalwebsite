@@ -1,0 +1,756 @@
+[
+  {
+    "id": "infsp-adrar",
+    "name": "INFSPM ADRAR",
+    "type": "INFSPM",
+    "wilaya": "Adrar",
+    "location": "Adrar",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "kine",
+      "manip-radio",
+      "labo",
+      "prep-pharma",
+      "ass-med"
+    ],
+    "minAverage": 0,
+    "maxAverage": 14.9,
+    "minDetail": {
+      "value": 0,
+      "specialty": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "Bordj badji mokhtar"
+    },
+    "maxDetail": {
+      "value": 14.9,
+      "specialty": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "Timimoun"
+    }
+  },
+  {
+    "id": "infsp-batna",
+    "name": "INFSPM BATNA",
+    "type": "INFSPM",
+    "wilaya": "Batna",
+    "location": "Batna",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "kine",
+      "ergo",
+      "manip-radio",
+      "labo",
+      "prep-pharma",
+      "hygiene",
+      "ass-med"
+    ],
+    "minAverage": 0,
+    "maxAverage": 16.79,
+    "minDetail": {
+      "value": 0,
+      "specialty": "ERGOTHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "El oued"
+    },
+    "maxDetail": {
+      "value": 16.79,
+      "specialty": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "Batna"
+    }
+  },
+  {
+    "id": "infsp-bejaia",
+    "name": "INFSPM BEJAIA",
+    "type": "INFSPM",
+    "wilaya": "Béjaïa",
+    "location": "Béjaïa",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "labo",
+      "ass-med",
+      "ass-soc"
+    ],
+    "minAverage": 0,
+    "maxAverage": 15.38,
+    "minDetail": {
+      "value": 0,
+      "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
+      "wilaya": "Bordj bou arreridj"
+    },
+    "maxDetail": {
+      "value": 15.38,
+      "specialty": "LABORANTINS DE SANTE PUBLIQUE",
+      "wilaya": "Bouira"
+    }
+  },
+  {
+    "id": "infsp-biskra",
+    "name": "INFSPM BISKRA",
+    "type": "INFSPM",
+    "wilaya": "Biskra",
+    "location": "Biskra",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "prothese",
+      "kine",
+      "manip-radio",
+      "labo",
+      "prep-pharma",
+      "hygiene",
+      "ass-med"
+    ],
+    "minAverage": 0,
+    "maxAverage": 16.25,
+    "minDetail": {
+      "value": 0,
+      "specialty": "PROTHESISTES DENTAIRES DE SANTE PUBLIQUE",
+      "wilaya": "Djanet"
+    },
+    "maxDetail": {
+      "value": 16.25,
+      "specialty": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "Biskra"
+    }
+  },
+  {
+    "id": "infsp-bechar",
+    "name": "INFSPM BECHAR",
+    "type": "INFSPM",
+    "wilaya": "Béchar",
+    "location": "Béchar",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "kine",
+      "manip-radio",
+      "labo",
+      "ass-med",
+      "ass-soc"
+    ],
+    "minAverage": 0,
+    "maxAverage": 15.76,
+    "minDetail": {
+      "value": 0,
+      "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
+      "wilaya": "Bordj badji mokhtar"
+    },
+    "maxDetail": {
+      "value": 15.76,
+      "specialty": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "Bechar"
+    }
+  },
+  {
+    "id": "infsp-blida",
+    "name": "INFSPM BLIDA",
+    "type": "INFSPM",
+    "wilaya": "Blida",
+    "location": "Blida",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "prothese",
+      "kine",
+      "ergo",
+      "psycho",
+      "manip-radio",
+      "labo",
+      "prep-pharma",
+      "hygiene"
+    ],
+    "minAverage": 12.8,
+    "maxAverage": 16.57,
+    "minDetail": {
+      "value": 12.8,
+      "specialty": "ERGOTHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "El meniaa"
+    },
+    "maxDetail": {
+      "value": 16.57,
+      "specialty": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "Ain defla"
+    }
+  },
+  {
+    "id": "infsp-bouira",
+    "name": "INFSPM BOUIRA",
+    "type": "INFSPM",
+    "wilaya": "Bouira",
+    "location": "Bouira",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "manip-radio",
+      "hygiene"
+    ],
+    "minAverage": 14.26,
+    "maxAverage": 15.58,
+    "minDetail": {
+      "value": 14.26,
+      "specialty": "HYGIENISTES DE SANTE PUBLIQUE",
+      "wilaya": "Bejaia"
+    },
+    "maxDetail": {
+      "value": 15.58,
+      "specialty": "HYGIENISTES DE SANTE PUBLIQUE",
+      "wilaya": "Msila"
+    }
+  },
+  {
+    "id": "infsp-tebessa",
+    "name": "INFSPM TEBESSA",
+    "type": "INFSPM",
+    "wilaya": "Tébessa",
+    "location": "Tébessa",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "manip-radio",
+      "labo",
+      "ass-med"
+    ],
+    "minAverage": 13.68,
+    "maxAverage": 15.63,
+    "minDetail": {
+      "value": 13.68,
+      "specialty": "ASSISTANTS MEDICAUX DE SANTE PUBLIQUE",
+      "wilaya": "Tebessa"
+    },
+    "maxDetail": {
+      "value": 15.63,
+      "specialty": "LABORANTINS DE SANTE PUBLIQUE",
+      "wilaya": "Khenchla"
+    }
+  },
+  {
+    "id": "infsp-tiaret",
+    "name": "INFSPM TIARET",
+    "type": "INFSPM",
+    "wilaya": "Tiaret",
+    "location": "Tiaret",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "manip-radio",
+      "labo",
+      "hygiene",
+      "ass-med"
+    ],
+    "minAverage": 0,
+    "maxAverage": 16.12,
+    "minDetail": {
+      "value": 0,
+      "specialty": "HYGIENISTES DE SANTE PUBLIQUE",
+      "wilaya": "Bordj badji mokhtar"
+    },
+    "maxDetail": {
+      "value": 16.12,
+      "specialty": "LABORANTINS DE SANTE PUBLIQUE",
+      "wilaya": "Tiaret"
+    }
+  },
+  {
+    "id": "infsp-alger",
+    "name": "INFSPM ALGER",
+    "type": "INFSPM",
+    "wilaya": "Alger",
+    "location": "Alger",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "diet",
+      "prothese",
+      "kine",
+      "podo",
+      "ergo",
+      "ortho-app",
+      "psycho",
+      "manip-radio",
+      "labo",
+      "prep-pharma",
+      "hygiene",
+      "ass-med",
+      "ass-soc"
+    ],
+    "minAverage": 0,
+    "maxAverage": 16.7,
+    "minDetail": {
+      "value": 0,
+      "specialty": "ERGOTHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "In guezzam"
+    },
+    "maxDetail": {
+      "value": 16.7,
+      "specialty": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "Alger"
+    }
+  },
+  {
+    "id": "infsp-jijel",
+    "name": "INFSPM JIJEL",
+    "type": "INFSPM",
+    "wilaya": "Jijel",
+    "location": "Jijel",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "kine",
+      "manip-radio",
+      "labo",
+      "prep-pharma",
+      "ass-soc"
+    ],
+    "minAverage": 0,
+    "maxAverage": 0,
+    "minDetail": {
+      "value": 0,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
+      "wilaya": "Jijel"
+    },
+    "maxDetail": {
+      "value": 0,
+      "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
+      "wilaya": "Jijel"
+    }
+  },
+  {
+    "id": "infsp-setif",
+    "name": "INFSPM SETIF",
+    "type": "INFSPM",
+    "wilaya": "Sétif",
+    "location": "Sétif",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "kine",
+      "ergo",
+      "ortho-app",
+      "psycho",
+      "manip-radio",
+      "labo",
+      "prep-pharma"
+    ],
+    "minAverage": 0,
+    "maxAverage": 16.6,
+    "minDetail": {
+      "value": 0,
+      "specialty": "PSYCHOMOTRICIENS DE SANTE PUBLIQUE",
+      "wilaya": "Setif"
+    },
+    "maxDetail": {
+      "value": 16.6,
+      "specialty": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "Setif"
+    }
+  },
+  {
+    "id": "infsp-saida",
+    "name": "INFSPM SAIDA",
+    "type": "INFSPM",
+    "wilaya": "Saïda",
+    "location": "Saïda",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "manip-radio",
+      "labo",
+      "ass-med",
+      "ass-soc"
+    ],
+    "minAverage": 0,
+    "maxAverage": 0,
+    "minDetail": {
+      "value": 0,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
+      "wilaya": "Saida"
+    },
+    "maxDetail": {
+      "value": 0,
+      "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
+      "wilaya": "Saida"
+    }
+  },
+  {
+    "id": "infsp-skikda",
+    "name": "INFSPM SKIKDA",
+    "type": "INFSPM",
+    "wilaya": "Skikda",
+    "location": "Skikda",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "manip-radio",
+      "labo",
+      "prep-pharma",
+      "hygiene",
+      "ass-med"
+    ],
+    "minAverage": 0,
+    "maxAverage": 0,
+    "minDetail": {
+      "value": 0,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
+      "wilaya": "Skikda"
+    },
+    "maxDetail": {
+      "value": 0,
+      "specialty": "ASSISTANTS MEDICAUX DE SANTE PUBLIQUE",
+      "wilaya": "Skikda"
+    }
+  },
+  {
+    "id": "infsp-sba",
+    "name": "INFSPM SIDI BEL ABBES",
+    "type": "INFSPM",
+    "wilaya": "Sidi Bel Abbès",
+    "location": "Sidi Bel Abbès",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "kine",
+      "ergo",
+      "psycho",
+      "manip-radio",
+      "labo",
+      "prep-pharma"
+    ],
+    "minAverage": 0,
+    "maxAverage": 0,
+    "minDetail": {
+      "value": 0,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
+      "wilaya": "Sidi bel abbes"
+    },
+    "maxDetail": {
+      "value": 0,
+      "specialty": "PREPARATEURS EN PHARMACIE DE SANTE PUBLIQUE",
+      "wilaya": "Sidi bel abbes"
+    }
+  },
+  {
+    "id": "infsp-constantine",
+    "name": "INFSPM CONSTANTINE",
+    "type": "INFSPM",
+    "wilaya": "Constantine",
+    "emails": ["contact@paramedical-dz.com", "roumeissa@paramedical-dz.com"],
+    "location": "Constantine",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "diet",
+      "kine",
+      "manip-radio",
+      "labo",
+      "prep-pharma",
+      "ass-soc"
+    ],
+    "minAverage": 14.74,
+    "maxAverage": 16.53,
+    "minDetail": {
+      "value": 14.74,
+      "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
+      "wilaya": "Constantine"
+    },
+    "maxDetail": {
+      "value": 16.53,
+      "specialty": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+      "wilaya": "Constantine"
+    }
+  },
+  {
+    "id": "infsp-medea",
+    "name": "INFSPM MEDEA",
+    "type": "INFSPM",
+    "wilaya": "Médéa",
+    "location": "Médéa",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "manip-radio",
+      "labo",
+      "prep-pharma"
+    ],
+    "minAverage": 0,
+    "maxAverage": 0,
+    "minDetail": {
+      "value": 0,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
+      "wilaya": "Medea"
+    },
+    "maxDetail": {
+      "value": 0,
+      "specialty": "PREPARATEURS EN PHARMACIE DE SANTE PUBLIQUE",
+      "wilaya": "Medea"
+    }
+  },
+  {
+    "id": "infsp-mostaganem",
+    "name": "INFSPM MOSTAGANEM",
+    "type": "INFSPM",
+    "wilaya": "Mostaganem",
+    "location": "Mostaganem",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "manip-radio",
+      "labo",
+      "prep-pharma",
+      "hygiene",
+      "ass-med",
+      "ass-soc"
+    ],
+    "minAverage": 0,
+    "maxAverage": 0,
+    "minDetail": {
+      "value": 0,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
+      "wilaya": "Mostaganem"
+    },
+    "maxDetail": {
+      "value": 0,
+      "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
+      "wilaya": "Mostaganem"
+    }
+  },
+  {
+    "id": "infsp-msila",
+    "name": "INFSPM MSILA",
+    "type": "INFSPM",
+    "wilaya": "M'Sila",
+    "location": "M'Sila",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "manip-radio",
+      "labo",
+      "ass-med",
+      "ass-soc"
+    ],
+    "minAverage": 0,
+    "maxAverage": 0,
+    "minDetail": {
+      "value": 0,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
+      "wilaya": "M'sila"
+    },
+    "maxDetail": {
+      "value": 0,
+      "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
+      "wilaya": "M'sila"
+    }
+  },
+  {
+    "id": "infsp-mascara",
+    "name": "INFSPM MASCARA",
+    "type": "INFSPM",
+    "wilaya": "Mascara",
+    "location": "Mascara",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "kine",
+      "ergo",
+      "manip-radio",
+      "labo",
+      "hygiene",
+      "ass-med"
+    ],
+    "minAverage": 0,
+    "maxAverage": 0,
+    "minDetail": {
+      "value": 0,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
+      "wilaya": "Mascara"
+    },
+    "maxDetail": {
+      "value": 0,
+      "specialty": "ASSISTANTS MEDICAUX DE SANTE PUBLIQUE",
+      "wilaya": "Mascara"
+    }
+  },
+  {
+    "id": "infsp-ouargla",
+    "name": "INFSPM OUARGLA",
+    "type": "INFSPM",
+    "wilaya": "Ouargla",
+    "location": "Ouargla",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "kine",
+      "manip-radio",
+      "labo",
+      "hygiene",
+      "ass-med",
+      "ass-soc"
+    ],
+    "minAverage": 0,
+    "maxAverage": 0,
+    "minDetail": {
+      "value": 0,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
+      "wilaya": "Ouargla"
+    },
+    "maxDetail": {
+      "value": 0,
+      "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
+      "wilaya": "Ouargla"
+    }
+  },
+  {
+    "id": "infsp-oran",
+    "name": "INFSPM ORAN",
+    "type": "INFSPM",
+    "wilaya": "Oran",
+    "location": "Oran",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "prothese",
+      "prep-pharma",
+      "diet",
+      "kine",
+      "ortho-app",
+      "manip-radio",
+      "labo",
+      "hygiene",
+      "ass-med",
+      "ass-soc"
+    ],
+    "minAverage": 14.23,
+    "maxAverage": 16.5,
+    "minDetail": {
+      "value": 14.23,
+      "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
+      "wilaya": "Oran"
+    },
+    "maxDetail": {
+      "value": 16.5,
+      "specialty": "DIETETICIENS DE SANTE PUBLIQUE",
+      "wilaya": "Oran"
+    }
+  },
+  {
+    "id": "infsp-ain-defla",
+    "name": "INFSPM AIN DEFLA",
+    "type": "INFSPM",
+    "wilaya": "Ain Defla",
+    "location": "Ain Defla",
+    "bacAverage": 14,
+    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "specialties": [
+      "isp",
+      "manip-radio",
+      "labo",
+      "ass-med",
+      "ass-soc"
+    ],
+    "minAverage": 0,
+    "maxAverage": 0,
+    "minDetail": {
+      "value": 0,
+      "specialty": "INFIMIERS DE SANTE PUBLIQUE",
+      "wilaya": "Ain defla"
+    },
+    "maxDetail": {
+      "value": 0,
+      "specialty": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
+      "wilaya": "Ain defla"
+    }
+  },
+  {
+    "id": "infssf-tlemcen",
+    "name": "INFSSF TLEMCEN",
+    "type": "INFSSF",
+    "wilaya": "Tlemcen",
+    "location": "Tlemcen",
+    "bacAverage": 14,
+    "description": "Institut National de Sages-Femmes.",
+    "specialties": [
+      "sage-femme"
+    ],
+    "minAverage": 0,
+    "maxAverage": 16.23,
+    "minDetail": {
+      "value": 0,
+      "specialty": "SAGE FEMME DE SANTE PUBLIQUE",
+      "wilaya": "Bordj badji mokhtar"
+    },
+    "maxDetail": {
+      "value": 16.23,
+      "specialty": "SAGE FEMME DE SANTE PUBLIQUE",
+      "wilaya": "Tlemcen"
+    }
+  },
+  {
+    "id": "infssf-tizi-ouzou",
+    "name": "INFSSF TIZI OUZOU",
+    "type": "INFSSF",
+    "wilaya": "Tizi Ouzou",
+    "location": "Tizi Ouzou",
+    "bacAverage": 14,
+    "description": "Institut National de Sages-Femmes.",
+    "specialties": [
+      "sage-femme"
+    ],
+    "minAverage": 0,
+    "maxAverage": 15.93,
+    "minDetail": {
+      "value": 0,
+      "specialty": "SAGE FEMME DE SANTE PUBLIQUE",
+      "wilaya": "In guezzam"
+    },
+    "maxDetail": {
+      "value": 15.93,
+      "specialty": "SAGE FEMME DE SANTE PUBLIQUE",
+      "wilaya": "Medea"
+    }
+  },
+  {
+    "id": "infssf-annaba",
+    "name": "INFSSF ANNABA",
+    "type": "INFSSF",
+    "wilaya": "Annaba",
+    "location": "Annaba",
+    "bacAverage": 14,
+    "description": "Institut National de Sages-Femmes.",
+    "specialties": [
+      "sage-femme"
+    ],
+    "minAverage": 10.15,
+    "maxAverage": 16.2,
+    "minDetail": {
+      "value": 10.15,
+      "specialty": "SAGE FEMME DE SANTE PUBLIQUE",
+      "wilaya": "Djanet"
+    },
+    "maxDetail": {
+      "value": 16.2,
+      "specialty": "SAGE FEMME DE SANTE PUBLIQUE",
+      "wilaya": "Batna"
+    }
+  }
+]

@@ -1,0 +1,4129 @@
+[
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 13.4,
+    "targetWilaya": "Adrar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 12.09,
+    "targetWilaya": "Tamanrasset"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 13.42,
+    "targetWilaya": "Timimoun"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 10.33,
+    "targetWilaya": "Bordj badji mokhtar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 11.27,
+    "targetWilaya": "In salah"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 11.84,
+    "targetWilaya": "In guezzam"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 14.71,
+    "targetWilaya": "Adrar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 14.21,
+    "targetWilaya": "Tamanrasset"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 14.9,
+    "targetWilaya": "Timimoun"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "Bordj badji mokhtar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 12.31,
+    "targetWilaya": "In salah"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 12.65,
+    "targetWilaya": "In guezzam"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 14.18,
+    "targetWilaya": "Adrar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 13.36,
+    "targetWilaya": "Tamanrasset"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 13.9,
+    "targetWilaya": "Timimoun"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "Bordj badji mokhtar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 12.37,
+    "targetWilaya": "In salah"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "In guezzam"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 14.59,
+    "targetWilaya": "Adrar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 12.87,
+    "targetWilaya": "Tamanrasset"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 14.49,
+    "targetWilaya": "Timimoun"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 12.45,
+    "targetWilaya": "Bordj badji mokhtar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 12.42,
+    "targetWilaya": "In salah"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 11.14,
+    "targetWilaya": "In guezzam"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 14.5,
+    "targetWilaya": "Adrar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 12.55,
+    "targetWilaya": "Tamanrasset"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 13.43,
+    "targetWilaya": "Tindouf"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 14.59,
+    "targetWilaya": "Timimoun"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "Bordj badji mokhtar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 13.28,
+    "targetWilaya": "Beni abbes"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 13.56,
+    "targetWilaya": "In salah"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "In guezzam"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 13.44,
+    "targetWilaya": "Adrar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 12.34,
+    "targetWilaya": "Tamanrasset"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 13.58,
+    "targetWilaya": "Timimoun"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 10.72,
+    "targetWilaya": "Bordj badji mokhtar"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 10.98,
+    "targetWilaya": "In salah"
+  },
+  {
+    "instituteId": "infsp-adrar",
+    "instituteName": "INFSPM ADRAR",
+    "instituteWilaya": "Adrar",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 10.6,
+    "targetWilaya": "In guezzam"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 15.28,
+    "targetWilaya": "Oum el bouaghi"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 15.93,
+    "targetWilaya": "Batna"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.28,
+    "targetWilaya": "Oum el bouaghi"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.79,
+    "targetWilaya": "Batna"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 15.78,
+    "targetWilaya": "Tebessa"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.58,
+    "targetWilaya": "Khenchla"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 15.55,
+    "targetWilaya": "Oum el bouaghi"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 16.12,
+    "targetWilaya": "Batna"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 14.88,
+    "targetWilaya": "Tebessa"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 14.09,
+    "targetWilaya": "Ouargla"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "El Oued"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 15.32,
+    "targetWilaya": "Khenchla"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 14.11,
+    "targetWilaya": "Touggourt"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "Djanet"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 14.08,
+    "targetWilaya": "El mghaier"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.73,
+    "targetWilaya": "Oum el bouaghi"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 16.28,
+    "targetWilaya": "Batna"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.6,
+    "targetWilaya": "Oum el bouaghi"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 16.28,
+    "targetWilaya": "Batna"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.63,
+    "targetWilaya": "Oum el bouaghi"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 16.43,
+    "targetWilaya": "Batna"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 14.83,
+    "targetWilaya": "Tebessa"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.67,
+    "targetWilaya": "Khenchla"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.31,
+    "targetWilaya": "El mghaier"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.57,
+    "targetWilaya": "Oum el bouaghi"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 16.1,
+    "targetWilaya": "Batna"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 14.53,
+    "targetWilaya": "Tebessa"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.68,
+    "targetWilaya": "Setif"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.67,
+    "targetWilaya": "Guelma"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.63,
+    "targetWilaya": "Khenchla"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.76,
+    "targetWilaya": "Mila"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.82,
+    "targetWilaya": "Oum el bouaghi"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 15.77,
+    "targetWilaya": "Batna"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.73,
+    "targetWilaya": "Mila"
+  },
+  {
+    "instituteId": "infsp-batna",
+    "instituteName": "INFSPM BATNA",
+    "instituteWilaya": "Batna",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 12.94,
+    "targetWilaya": "El mghaier"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 14.44,
+    "targetWilaya": "Bejaia"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 14.45,
+    "targetWilaya": "Tizi ouzou"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.37,
+    "targetWilaya": "Bejaia"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.38,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 14.94,
+    "targetWilaya": "Tizi ouzou"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.29,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.1,
+    "targetWilaya": "Bejaia"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.42,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.33,
+    "targetWilaya": "Jijel"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 15.05,
+    "targetWilaya": "Setif"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.27,
+    "targetWilaya": "Bordj Bou Arreridj"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 13.99,
+    "targetWilaya": "Bejaia"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 13.91,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 13.12,
+    "targetWilaya": "Tizi Ouzou"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 14.25,
+    "targetWilaya": "Setif"
+  },
+  {
+    "instituteId": "infsp-bejaia",
+    "instituteName": "INFSPM BEJAIA",
+    "instituteWilaya": "Béjaïa",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "Bordj Bou Arreridj"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 14.79,
+    "targetWilaya": "Biskra"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 14.94,
+    "targetWilaya": "El Oued"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 13.3,
+    "targetWilaya": "Ouled djellal"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 13.24,
+    "targetWilaya": "El mghaier"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.6,
+    "targetWilaya": "Oum el bouaghi"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.98,
+    "targetWilaya": "Batna"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.83,
+    "targetWilaya": "Biskra"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 13.5,
+    "targetWilaya": "Tamanrasset"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 14.99,
+    "targetWilaya": "Tebessa"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 14.71,
+    "targetWilaya": "Ouargla"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 12.23,
+    "targetWilaya": "Illizi"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.91,
+    "targetWilaya": "El Oued"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.23,
+    "targetWilaya": "Khenchla"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 14.53,
+    "targetWilaya": "Ouled djellal"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 13.57,
+    "targetWilaya": "In salah"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 14.13,
+    "targetWilaya": "In guezzam"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.54,
+    "targetWilaya": "Touggourt"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "Djanet"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.25,
+    "targetWilaya": "Biskra"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.18,
+    "targetWilaya": "El Oued"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 14.79,
+    "targetWilaya": "Ouled djellal"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 15.98,
+    "targetWilaya": "Touggourt"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 13.81,
+    "targetWilaya": "El mghaier"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.7,
+    "targetWilaya": "Biskra"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 14.34,
+    "targetWilaya": "Ouled djellal"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 14.15,
+    "targetWilaya": "El mghaier"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.7,
+    "targetWilaya": "Biskra"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 14.31,
+    "targetWilaya": "Ouled djellal"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 14.29,
+    "targetWilaya": "El mghaier"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.31,
+    "targetWilaya": "Biskra"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 14.92,
+    "targetWilaya": "El Oued"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 14.19,
+    "targetWilaya": "Ouled djellal"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 14.69,
+    "targetWilaya": "Touggourt"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.01,
+    "targetWilaya": "Biskra"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 14.72,
+    "targetWilaya": "El Oued"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 14.22,
+    "targetWilaya": "Ouled djellal"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 14.12,
+    "targetWilaya": "Touggourt"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 13.6,
+    "targetWilaya": "El mghaier"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 15.54,
+    "targetWilaya": "Biskra"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 13.15,
+    "targetWilaya": "El Oued"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 13.54,
+    "targetWilaya": "Ouled djellal"
+  },
+  {
+    "instituteId": "infsp-biskra",
+    "instituteName": "INFSPM BISKRA",
+    "instituteWilaya": "Biskra",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.46,
+    "targetWilaya": "Touggourt"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 13.53,
+    "targetWilaya": "Bechar"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 12.16,
+    "targetWilaya": "Tindouf"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 11.59,
+    "targetWilaya": "Beni abbes"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 15.76,
+    "targetWilaya": "Bechar"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 15.4,
+    "targetWilaya": "El bayadh"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 14.32,
+    "targetWilaya": "Tindouf"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 12.5,
+    "targetWilaya": "Beni abbes"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.01,
+    "targetWilaya": "Bechar"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 13.62,
+    "targetWilaya": "Tindouf"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 12.14,
+    "targetWilaya": "Beni abbes"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 14.95,
+    "targetWilaya": "Bechar"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 14.36,
+    "targetWilaya": "Tindouf"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 13.16,
+    "targetWilaya": "Beni abbes"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 13.52,
+    "targetWilaya": "Bechar"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 11.93,
+    "targetWilaya": "Tindouf"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 12.15,
+    "targetWilaya": "Beni abbes"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 13.13,
+    "targetWilaya": "Adrar"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 13.49,
+    "targetWilaya": "Bechar"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 13.88,
+    "targetWilaya": "Tindouf"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 13.85,
+    "targetWilaya": "Timimoun"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "Bordj badji mokhtar"
+  },
+  {
+    "instituteId": "infsp-bechar",
+    "instituteName": "INFSPM BECHAR",
+    "instituteWilaya": "Béchar",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 12.31,
+    "targetWilaya": "Beni abbes"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 15.29,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 15.12,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.22,
+    "targetWilaya": "Laghouat"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.28,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.53,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.78,
+    "targetWilaya": "Tiaret"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.64,
+    "targetWilaya": "Djelfa"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.9,
+    "targetWilaya": "Medea"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.09,
+    "targetWilaya": "Msila"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.1,
+    "targetWilaya": "Tissemsilt"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.24,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.07,
+    "targetWilaya": "Ain Defla"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.98,
+    "targetWilaya": "Ghardaia"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 12.88,
+    "targetWilaya": "El meniaa"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.27,
+    "targetWilaya": "Laghouat"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.26,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.19,
+    "targetWilaya": "Djelfa"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.55,
+    "targetWilaya": "Medea"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.57,
+    "targetWilaya": "Ain Defla"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 14.59,
+    "targetWilaya": "Laghouat"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 15.35,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 14.97,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 15.09,
+    "targetWilaya": "Medea"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 14.98,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 15.47,
+    "targetWilaya": "Ain Defla"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 14.29,
+    "targetWilaya": "Ghardaia"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 12.8,
+    "targetWilaya": "El meniaa"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 14.1,
+    "targetWilaya": "Laghouat"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 15.21,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 14.57,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 15.37,
+    "targetWilaya": "Tissemsilt"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 15.38,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 15.16,
+    "targetWilaya": "Ghardaia"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 12.97,
+    "targetWilaya": "Timimoun"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.91,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 16.08,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.96,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.77,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.7,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.3,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.58,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.71,
+    "targetWilaya": "Ain Defla"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.38,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.35,
+    "targetWilaya": "Djelfa"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.23,
+    "targetWilaya": "Medea"
+  },
+  {
+    "instituteId": "infsp-blida",
+    "instituteName": "INFSPM BLIDA",
+    "instituteWilaya": "Blida",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.45,
+    "targetWilaya": "Ain Defla"
+  },
+  {
+    "instituteId": "infsp-bouira",
+    "instituteName": "INFSPM BOUIRA",
+    "instituteWilaya": "Bouira",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 14.72,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-bouira",
+    "instituteName": "INFSPM BOUIRA",
+    "instituteWilaya": "Bouira",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 14.94,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-bouira",
+    "instituteName": "INFSPM BOUIRA",
+    "instituteWilaya": "Bouira",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 14.9,
+    "targetWilaya": "Bejaia"
+  },
+  {
+    "instituteId": "infsp-bouira",
+    "instituteName": "INFSPM BOUIRA",
+    "instituteWilaya": "Bouira",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.4,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-bouira",
+    "instituteName": "INFSPM BOUIRA",
+    "instituteWilaya": "Bouira",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 14.98,
+    "targetWilaya": "Tizi Ouzou"
+  },
+  {
+    "instituteId": "infsp-bouira",
+    "instituteName": "INFSPM BOUIRA",
+    "instituteWilaya": "Bouira",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.57,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-bouira",
+    "instituteName": "INFSPM BOUIRA",
+    "instituteWilaya": "Bouira",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 14.26,
+    "targetWilaya": "Bejaia"
+  },
+  {
+    "instituteId": "infsp-bouira",
+    "instituteName": "INFSPM BOUIRA",
+    "instituteWilaya": "Bouira",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.07,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-bouira",
+    "instituteName": "INFSPM BOUIRA",
+    "instituteWilaya": "Bouira",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.58,
+    "targetWilaya": "Msila"
+  },
+  {
+    "instituteId": "infsp-bouira",
+    "instituteName": "INFSPM BOUIRA",
+    "instituteWilaya": "Bouira",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.45,
+    "targetWilaya": "Bordj Bou Arreridj"
+  },
+  {
+    "instituteId": "infsp-tebessa",
+    "instituteName": "INFSPM TEBESSA",
+    "instituteWilaya": "Tébessa",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 14.27,
+    "targetWilaya": "Tebessa"
+  },
+  {
+    "instituteId": "infsp-tebessa",
+    "instituteName": "INFSPM TEBESSA",
+    "instituteWilaya": "Tébessa",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 15,
+    "targetWilaya": "Khenchla"
+  },
+  {
+    "instituteId": "infsp-tebessa",
+    "instituteName": "INFSPM TEBESSA",
+    "instituteWilaya": "Tébessa",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.12,
+    "targetWilaya": "Tebessa"
+  },
+  {
+    "instituteId": "infsp-tebessa",
+    "instituteName": "INFSPM TEBESSA",
+    "instituteWilaya": "Tébessa",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.13,
+    "targetWilaya": "El Oued"
+  },
+  {
+    "instituteId": "infsp-tebessa",
+    "instituteName": "INFSPM TEBESSA",
+    "instituteWilaya": "Tébessa",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 14.88,
+    "targetWilaya": "Tebessa"
+  },
+  {
+    "instituteId": "infsp-tebessa",
+    "instituteName": "INFSPM TEBESSA",
+    "instituteWilaya": "Tébessa",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.17,
+    "targetWilaya": "El Oued"
+  },
+  {
+    "instituteId": "infsp-tebessa",
+    "instituteName": "INFSPM TEBESSA",
+    "instituteWilaya": "Tébessa",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.63,
+    "targetWilaya": "Khenchla"
+  },
+  {
+    "instituteId": "infsp-tebessa",
+    "instituteName": "INFSPM TEBESSA",
+    "instituteWilaya": "Tébessa",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 13.68,
+    "targetWilaya": "Tebessa"
+  },
+  {
+    "instituteId": "infsp-tebessa",
+    "instituteName": "INFSPM TEBESSA",
+    "instituteWilaya": "Tébessa",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.44,
+    "targetWilaya": "Guelma"
+  },
+  {
+    "instituteId": "infsp-tebessa",
+    "instituteName": "INFSPM TEBESSA",
+    "instituteWilaya": "Tébessa",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.52,
+    "targetWilaya": "Khenchla"
+  },
+  {
+    "instituteId": "infsp-tebessa",
+    "instituteName": "INFSPM TEBESSA",
+    "instituteWilaya": "Tébessa",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 15.5,
+    "targetWilaya": "Souk ahras"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 15.38,
+    "targetWilaya": "Tiaret"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 14.17,
+    "targetWilaya": "El bayadh"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 14.97,
+    "targetWilaya": "Tissemsilt"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 16,
+    "targetWilaya": "Tiaret"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 14.66,
+    "targetWilaya": "El bayadh"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.73,
+    "targetWilaya": "Tissemsilt"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 16.12,
+    "targetWilaya": "Tiaret"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15,
+    "targetWilaya": "El bayadh"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.67,
+    "targetWilaya": "Tissemsilt"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 13.1,
+    "targetWilaya": "Adrar"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 14.6,
+    "targetWilaya": "Laghouat"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.76,
+    "targetWilaya": "Tiaret"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 14.28,
+    "targetWilaya": "Tindouf"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "Bordj badji mokhtar"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 11.58,
+    "targetWilaya": "Beni abbes"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 13.7,
+    "targetWilaya": "Laghouat"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.93,
+    "targetWilaya": "Tiaret"
+  },
+  {
+    "instituteId": "infsp-tiaret",
+    "instituteName": "INFSPM TIARET",
+    "instituteWilaya": "Tiaret",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.54,
+    "targetWilaya": "Tissemsilt"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 15.14,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 16.23,
+    "targetWilaya": "Laghouat"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 16.02,
+    "targetWilaya": "Bejaia"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 16.24,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 15.89,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 15.03,
+    "targetWilaya": "Tizi ouzou"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 16.34,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 16.08,
+    "targetWilaya": "Djelfa"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 16.29,
+    "targetWilaya": "Medea"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 15.94,
+    "targetWilaya": "Msila"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 15.95,
+    "targetWilaya": "Bordj Bou Arreridj"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 16.43,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 16.47,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 16.12,
+    "targetWilaya": "Ain Defla"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.42,
+    "targetWilaya": "Bejaia"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.35,
+    "targetWilaya": "Tizi Ouzou"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.45,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.73,
+    "targetWilaya": "Jijel"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.73,
+    "targetWilaya": "Setif"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.07,
+    "targetWilaya": "Skikda"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.53,
+    "targetWilaya": "Annaba"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.02,
+    "targetWilaya": "Guelma"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.88,
+    "targetWilaya": "Constantine"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.12,
+    "targetWilaya": "Bordj Bou Arreridj"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.43,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 15.51,
+    "targetWilaya": "Eltarf"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.03,
+    "targetWilaya": "Souk ahras"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.5,
+    "targetWilaya": "Mila"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.57,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.14,
+    "targetWilaya": "Tizi Ouzou"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.7,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.62,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.37,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "podo",
+    "year": 2025,
+    "average": 14.4,
+    "targetWilaya": "Laghouat"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "podo",
+    "year": 2025,
+    "average": 13.66,
+    "targetWilaya": "Bechar"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "podo",
+    "year": 2025,
+    "average": 14.21,
+    "targetWilaya": "Tizi Ouzou"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "podo",
+    "year": 2025,
+    "average": 14.97,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "podo",
+    "year": 2025,
+    "average": 15.41,
+    "targetWilaya": "Setif"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "podo",
+    "year": 2025,
+    "average": 15.11,
+    "targetWilaya": "Sidi bel abbes"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "podo",
+    "year": 2025,
+    "average": 14.82,
+    "targetWilaya": "Annaba"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "podo",
+    "year": 2025,
+    "average": 14.95,
+    "targetWilaya": "Constantine"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "podo",
+    "year": 2025,
+    "average": 13.08,
+    "targetWilaya": "Ouargla"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "podo",
+    "year": 2025,
+    "average": 14.72,
+    "targetWilaya": "Oran"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 13.63,
+    "targetWilaya": "Adrar"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 12.71,
+    "targetWilaya": "Tamanrasset"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 14.53,
+    "targetWilaya": "Tizi Ouzou"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 15.4,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 15.4,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 13.19,
+    "targetWilaya": "Timimoun"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 12.39,
+    "targetWilaya": "In salah"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "In guezzam"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 14.72,
+    "targetWilaya": "Laghouat"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 15.63,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 13.88,
+    "targetWilaya": "Tamanrasset"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 14.47,
+    "targetWilaya": "Tizi Ouzou"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 15.72,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 15.61,
+    "targetWilaya": "Medea"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 11.95,
+    "targetWilaya": "Illizi"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 15.09,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 13.19,
+    "targetWilaya": "In salah"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "Djanet"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 13.19,
+    "targetWilaya": "Adrar"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 12.57,
+    "targetWilaya": "Tamanrasset"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 14.36,
+    "targetWilaya": "Tizi Ouzou"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 15.86,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 12.87,
+    "targetWilaya": "Ouargla"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 13.58,
+    "targetWilaya": "Illizi"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 15.36,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 11.97,
+    "targetWilaya": "In salah"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 12.48,
+    "targetWilaya": "In guezzam"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "Djanet"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.97,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.96,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15,
+    "targetWilaya": "Tizi Ouzou"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.84,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.48,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 14.9,
+    "targetWilaya": "Tizi ouzou"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.44,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.2,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.26,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.5,
+    "targetWilaya": "Tizi Ouzou"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 15.04,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.66,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 14.63,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 15.4,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 13.69,
+    "targetWilaya": "Boumerdes"
+  },
+  {
+    "instituteId": "infsp-alger",
+    "instituteName": "INFSPM ALGER",
+    "instituteWilaya": "Alger",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 15.25,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infsp-jijel",
+    "instituteName": "INFSPM JIJEL",
+    "instituteWilaya": "Jijel",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-jijel",
+    "instituteName": "INFSPM JIJEL",
+    "instituteWilaya": "Jijel",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-jijel",
+    "instituteName": "INFSPM JIJEL",
+    "instituteWilaya": "Jijel",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-jijel",
+    "instituteName": "INFSPM JIJEL",
+    "instituteWilaya": "Jijel",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-jijel",
+    "instituteName": "INFSPM JIJEL",
+    "instituteWilaya": "Jijel",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-jijel",
+    "instituteName": "INFSPM JIJEL",
+    "instituteWilaya": "Jijel",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-setif",
+    "instituteName": "INFSPM SETIF",
+    "instituteWilaya": "Sétif",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 15.79
+  },
+  {
+    "instituteId": "infsp-setif",
+    "instituteName": "INFSPM SETIF",
+    "instituteWilaya": "Sétif",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.6
+  },
+  {
+    "instituteId": "infsp-setif",
+    "instituteName": "INFSPM SETIF",
+    "instituteWilaya": "Sétif",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 15.85
+  },
+  {
+    "instituteId": "infsp-setif",
+    "instituteName": "INFSPM SETIF",
+    "instituteWilaya": "Sétif",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 16.04
+  },
+  {
+    "instituteId": "infsp-setif",
+    "instituteName": "INFSPM SETIF",
+    "instituteWilaya": "Sétif",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-setif",
+    "instituteName": "INFSPM SETIF",
+    "instituteWilaya": "Sétif",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 16.23
+  },
+  {
+    "instituteId": "infsp-setif",
+    "instituteName": "INFSPM SETIF",
+    "instituteWilaya": "Sétif",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 16.3
+  },
+  {
+    "instituteId": "infsp-setif",
+    "instituteName": "INFSPM SETIF",
+    "instituteWilaya": "Sétif",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 16.06
+  },
+  {
+    "instituteId": "infsp-saida",
+    "instituteName": "INFSPM SAIDA",
+    "instituteWilaya": "Saïda",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-saida",
+    "instituteName": "INFSPM SAIDA",
+    "instituteWilaya": "Saïda",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-saida",
+    "instituteName": "INFSPM SAIDA",
+    "instituteWilaya": "Saïda",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-saida",
+    "instituteName": "INFSPM SAIDA",
+    "instituteWilaya": "Saïda",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-saida",
+    "instituteName": "INFSPM SAIDA",
+    "instituteWilaya": "Saïda",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-skikda",
+    "instituteName": "INFSPM SKIKDA",
+    "instituteWilaya": "Skikda",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-skikda",
+    "instituteName": "INFSPM SKIKDA",
+    "instituteWilaya": "Skikda",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-skikda",
+    "instituteName": "INFSPM SKIKDA",
+    "instituteWilaya": "Skikda",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-skikda",
+    "instituteName": "INFSPM SKIKDA",
+    "instituteWilaya": "Skikda",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-skikda",
+    "instituteName": "INFSPM SKIKDA",
+    "instituteWilaya": "Skikda",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-skikda",
+    "instituteName": "INFSPM SKIKDA",
+    "instituteWilaya": "Skikda",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-sba",
+    "instituteName": "INFSPM SIDI BEL ABBES",
+    "instituteWilaya": "Sidi Bel Abbès",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-sba",
+    "instituteName": "INFSPM SIDI BEL ABBES",
+    "instituteWilaya": "Sidi Bel Abbès",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-sba",
+    "instituteName": "INFSPM SIDI BEL ABBES",
+    "instituteWilaya": "Sidi Bel Abbès",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-sba",
+    "instituteName": "INFSPM SIDI BEL ABBES",
+    "instituteWilaya": "Sidi Bel Abbès",
+    "specialtyId": "psycho",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-sba",
+    "instituteName": "INFSPM SIDI BEL ABBES",
+    "instituteWilaya": "Sidi Bel Abbès",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-sba",
+    "instituteName": "INFSPM SIDI BEL ABBES",
+    "instituteWilaya": "Sidi Bel Abbès",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-sba",
+    "instituteName": "INFSPM SIDI BEL ABBES",
+    "instituteWilaya": "Sidi Bel Abbès",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-constantine",
+    "instituteName": "INFSPM CONSTANTINE",
+    "instituteWilaya": "Constantine",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 15.53
+  },
+  {
+    "instituteId": "infsp-constantine",
+    "instituteName": "INFSPM CONSTANTINE",
+    "instituteWilaya": "Constantine",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 15.89
+  },
+  {
+    "instituteId": "infsp-constantine",
+    "instituteName": "INFSPM CONSTANTINE",
+    "instituteWilaya": "Constantine",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.53
+  },
+  {
+    "instituteId": "infsp-constantine",
+    "instituteName": "INFSPM CONSTANTINE",
+    "instituteWilaya": "Constantine",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.95
+  },
+  {
+    "instituteId": "infsp-constantine",
+    "instituteName": "INFSPM CONSTANTINE",
+    "instituteWilaya": "Constantine",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.83
+  },
+  {
+    "instituteId": "infsp-constantine",
+    "instituteName": "INFSPM CONSTANTINE",
+    "instituteWilaya": "Constantine",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.72
+  },
+  {
+    "instituteId": "infsp-constantine",
+    "instituteName": "INFSPM CONSTANTINE",
+    "instituteWilaya": "Constantine",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 14.74
+  },
+  {
+    "instituteId": "infsp-medea",
+    "instituteName": "INFSPM MEDEA",
+    "instituteWilaya": "Médéa",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-medea",
+    "instituteName": "INFSPM MEDEA",
+    "instituteWilaya": "Médéa",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-medea",
+    "instituteName": "INFSPM MEDEA",
+    "instituteWilaya": "Médéa",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-medea",
+    "instituteName": "INFSPM MEDEA",
+    "instituteWilaya": "Médéa",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mostaganem",
+    "instituteName": "INFSPM MOSTAGANEM",
+    "instituteWilaya": "Mostaganem",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mostaganem",
+    "instituteName": "INFSPM MOSTAGANEM",
+    "instituteWilaya": "Mostaganem",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mostaganem",
+    "instituteName": "INFSPM MOSTAGANEM",
+    "instituteWilaya": "Mostaganem",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mostaganem",
+    "instituteName": "INFSPM MOSTAGANEM",
+    "instituteWilaya": "Mostaganem",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mostaganem",
+    "instituteName": "INFSPM MOSTAGANEM",
+    "instituteWilaya": "Mostaganem",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mostaganem",
+    "instituteName": "INFSPM MOSTAGANEM",
+    "instituteWilaya": "Mostaganem",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mostaganem",
+    "instituteName": "INFSPM MOSTAGANEM",
+    "instituteWilaya": "Mostaganem",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-msila",
+    "instituteName": "INFSPM MSILA",
+    "instituteWilaya": "M'Sila",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-msila",
+    "instituteName": "INFSPM MSILA",
+    "instituteWilaya": "M'Sila",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-msila",
+    "instituteName": "INFSPM MSILA",
+    "instituteWilaya": "M'Sila",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-msila",
+    "instituteName": "INFSPM MSILA",
+    "instituteWilaya": "M'Sila",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-msila",
+    "instituteName": "INFSPM MSILA",
+    "instituteWilaya": "M'Sila",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mascara",
+    "instituteName": "INFSPM MASCARA",
+    "instituteWilaya": "Mascara",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mascara",
+    "instituteName": "INFSPM MASCARA",
+    "instituteWilaya": "Mascara",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mascara",
+    "instituteName": "INFSPM MASCARA",
+    "instituteWilaya": "Mascara",
+    "specialtyId": "ergo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mascara",
+    "instituteName": "INFSPM MASCARA",
+    "instituteWilaya": "Mascara",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mascara",
+    "instituteName": "INFSPM MASCARA",
+    "instituteWilaya": "Mascara",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mascara",
+    "instituteName": "INFSPM MASCARA",
+    "instituteWilaya": "Mascara",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-mascara",
+    "instituteName": "INFSPM MASCARA",
+    "instituteWilaya": "Mascara",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-ouargla",
+    "instituteName": "INFSPM OUARGLA",
+    "instituteWilaya": "Ouargla",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-ouargla",
+    "instituteName": "INFSPM OUARGLA",
+    "instituteWilaya": "Ouargla",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-ouargla",
+    "instituteName": "INFSPM OUARGLA",
+    "instituteWilaya": "Ouargla",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-ouargla",
+    "instituteName": "INFSPM OUARGLA",
+    "instituteWilaya": "Ouargla",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-ouargla",
+    "instituteName": "INFSPM OUARGLA",
+    "instituteWilaya": "Ouargla",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-ouargla",
+    "instituteName": "INFSPM OUARGLA",
+    "instituteWilaya": "Ouargla",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-ouargla",
+    "instituteName": "INFSPM OUARGLA",
+    "instituteWilaya": "Ouargla",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-oran",
+    "instituteName": "INFSPM ORAN",
+    "instituteWilaya": "Oran",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 15.01
+  },
+  {
+    "instituteId": "infsp-oran",
+    "instituteName": "INFSPM ORAN",
+    "instituteWilaya": "Oran",
+    "specialtyId": "prothese",
+    "year": 2025,
+    "average": 16.25
+  },
+  {
+    "instituteId": "infsp-oran",
+    "instituteName": "INFSPM ORAN",
+    "instituteWilaya": "Oran",
+    "specialtyId": "prep-pharma",
+    "year": 2025,
+    "average": 15.72
+  },
+  {
+    "instituteId": "infsp-oran",
+    "instituteName": "INFSPM ORAN",
+    "instituteWilaya": "Oran",
+    "specialtyId": "diet",
+    "year": 2025,
+    "average": 16.5
+  },
+  {
+    "instituteId": "infsp-oran",
+    "instituteName": "INFSPM ORAN",
+    "instituteWilaya": "Oran",
+    "specialtyId": "kine",
+    "year": 2025,
+    "average": 16.4
+  },
+  {
+    "instituteId": "infsp-oran",
+    "instituteName": "INFSPM ORAN",
+    "instituteWilaya": "Oran",
+    "specialtyId": "ortho-app",
+    "year": 2025,
+    "average": 15.53
+  },
+  {
+    "instituteId": "infsp-oran",
+    "instituteName": "INFSPM ORAN",
+    "instituteWilaya": "Oran",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 15.79
+  },
+  {
+    "instituteId": "infsp-oran",
+    "instituteName": "INFSPM ORAN",
+    "instituteWilaya": "Oran",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 15.8
+  },
+  {
+    "instituteId": "infsp-oran",
+    "instituteName": "INFSPM ORAN",
+    "instituteWilaya": "Oran",
+    "specialtyId": "hygiene",
+    "year": 2025,
+    "average": 15.62
+  },
+  {
+    "instituteId": "infsp-oran",
+    "instituteName": "INFSPM ORAN",
+    "instituteWilaya": "Oran",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 14.25
+  },
+  {
+    "instituteId": "infsp-oran",
+    "instituteName": "INFSPM ORAN",
+    "instituteWilaya": "Oran",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 14.23
+  },
+  {
+    "instituteId": "infsp-ain-defla",
+    "instituteName": "INFSPM AIN DEFLA",
+    "instituteWilaya": "Ain Defla",
+    "specialtyId": "isp",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-ain-defla",
+    "instituteName": "INFSPM AIN DEFLA",
+    "instituteWilaya": "Ain Defla",
+    "specialtyId": "manip-radio",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-ain-defla",
+    "instituteName": "INFSPM AIN DEFLA",
+    "instituteWilaya": "Ain Defla",
+    "specialtyId": "labo",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-ain-defla",
+    "instituteName": "INFSPM AIN DEFLA",
+    "instituteWilaya": "Ain Defla",
+    "specialtyId": "ass-med",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infsp-ain-defla",
+    "instituteName": "INFSPM AIN DEFLA",
+    "instituteWilaya": "Ain Defla",
+    "specialtyId": "ass-soc",
+    "year": 2025,
+    "average": 0
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 14.57,
+    "targetWilaya": "Adrar"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 16.1,
+    "targetWilaya": "Chlef"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 14.25,
+    "targetWilaya": "Béchar"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 16.23,
+    "targetWilaya": "Tlemcen"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.82,
+    "targetWilaya": "Tiaret"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.17,
+    "targetWilaya": "Saïda"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.88,
+    "targetWilaya": "Sidi Bel Abbès"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.61,
+    "targetWilaya": "Mostaganem"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 16.03,
+    "targetWilaya": "Mascara"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.67,
+    "targetWilaya": "Oran"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.26,
+    "targetWilaya": "El Bayadh"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 12.69,
+    "targetWilaya": "Tindouf"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.28,
+    "targetWilaya": "Tissemsilt"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.19,
+    "targetWilaya": "Naâma"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.83,
+    "targetWilaya": "Aïn Temouchent"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.91,
+    "targetWilaya": "Relizane"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 13.97,
+    "targetWilaya": "Timimoun"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "Bordj Badji Mokhtar"
+  },
+  {
+    "instituteId": "infssf-tlemcen",
+    "instituteName": "INFSSF TLEMCEN",
+    "instituteWilaya": "Tlemcen",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 12.45,
+    "targetWilaya": "Béni Abbès"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 14.62,
+    "targetWilaya": "Laghouat"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 14.99,
+    "targetWilaya": "Béjaïa"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.76,
+    "targetWilaya": "Blida"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.53,
+    "targetWilaya": "Bouira"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 11.93,
+    "targetWilaya": "Tamanrasset"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.41,
+    "targetWilaya": "Tizi Ouzou"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.74,
+    "targetWilaya": "Alger"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.13,
+    "targetWilaya": "Djelfa"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.93,
+    "targetWilaya": "Médéa"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.57,
+    "targetWilaya": "M'Sila"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.79,
+    "targetWilaya": "Boumerdès"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.54,
+    "targetWilaya": "Tipaza"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.85,
+    "targetWilaya": "Ain Defla"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.49,
+    "targetWilaya": "Ghardaïa"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 12.42,
+    "targetWilaya": "In Salah"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 0,
+    "targetWilaya": "In Guezzam"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 14.15,
+    "targetWilaya": "El M'Ghair"
+  },
+  {
+    "instituteId": "infssf-Tizi Ouzou",
+    "instituteName": "INFSSF TIZI OUZOU",
+    "instituteWilaya": "Tizi Ouzou",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 12.92,
+    "targetWilaya": "El Meniaa"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.76,
+    "targetWilaya": "Oum El Bouaghi"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 16.2,
+    "targetWilaya": "Batna"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.51,
+    "targetWilaya": "Biskra"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.28,
+    "targetWilaya": "Tébessa"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.66,
+    "targetWilaya": "Jijel"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.97,
+    "targetWilaya": "Sétif"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.88,
+    "targetWilaya": "Skikda"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.9,
+    "targetWilaya": "Annaba"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.88,
+    "targetWilaya": "Guelma"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.84,
+    "targetWilaya": "Constantine"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 14.26,
+    "targetWilaya": "Ouargla"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 12.19,
+    "targetWilaya": "Illizi"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.66,
+    "targetWilaya": "Bordj Bou Arreridj"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.85,
+    "targetWilaya": "El Tarf"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.53,
+    "targetWilaya": "El Oued"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.87,
+    "targetWilaya": "Khenchela"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.57,
+    "targetWilaya": "Souk Ahras"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.85,
+    "targetWilaya": "Mila"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 13.57,
+    "targetWilaya": "Ouled Djellal"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 15.37,
+    "targetWilaya": "Touggourt"
+  },
+  {
+    "instituteId": "infssf-annaba",
+    "instituteName": "INFSSF ANNABA",
+    "instituteWilaya": "Annaba",
+    "specialtyId": "sage-femme",
+    "year": 2025,
+    "average": 10.15,
+    "targetWilaya": "Djanet"
+  }
+]

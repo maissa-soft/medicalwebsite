@@ -1,0 +1,2054 @@
+[
+  {
+    "id": "sage-femme",
+    "code": "W01SANTE",
+    "name": "SAGE FEMME DE SANTE PUBLIQUE",
+    "abbreviation": "SAGE-FEMME",
+    "duration": "3 à 4 ans",
+    "description": "Suivi des grossesses, accouchements et soins obstétricaux.",
+    "career": "Maternités, PMI.",
+    "subjects": [
+      {
+        "name": "Anatomie Obstétricale",
+        "coefficient": 3,
+        "credit": 6
+      }
+    ]
+  },
+  {
+    "id": "isp",
+    "code": "X01SANTE",
+    "name": "INFIMIERS DE SANTE PUBLIQUE",
+    "abbreviation": "ISP",
+    "duration": "3 ans",
+    "description": "Formation polyvalente pour les soins hospitaliers.",
+    "career": "Hôpitaux, cliniques.",
+    "subjects": [
+      {
+        "name": "Soins Infirmiers de Base",
+        "coefficient": 4,
+        "credit": 8
+      }
+    ],
+    "semesters": [
+      {
+        "name": "Semestre 1",
+        "modules": [
+          {
+            "name": "Anatomie Physiologie.",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "Anthropologie/ Psychologie / Psychosociologie.",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Hygiène Hospitalière.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Législation/Ethique Prof/Déontologie.",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Santé Publique / Démographie / Economie de Santé.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Secourisme.",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Soins de base.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Remédiation linguistique / Techniques d’expression écrite et orale.",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Terminologie médicale.",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 2",
+        "modules": [
+          {
+            "name": "Anatomie physiologie – 2ème partie",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Chirurgie",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Soins infirmiers",
+            "coefficient": 6,
+            "credit": 12
+          },
+          {
+            "name": "Hygiène hospitalière – 2ème partie",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Informatique et internet",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Information/ Education/ Communication.",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Sciences de l’environnement",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Sémiologie",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Microbiologie parasitologie immunologie",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Puériculture",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Nutrition Diététique.",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Pharmacie",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diet",
+    "code": "X02SANTE",
+    "name": "DIETETICIENS DE SANTE PUBLIQUE",
+    "abbreviation": "DIET",
+    "duration": "3 ans",
+    "description": "Prévention et traitement nutritionnel des maladies.",
+    "career": "Hôpitaux, Restauration.",
+    "subjects": [
+      {
+        "name": "Nutrition et Diététique",
+        "coefficient": 4,
+        "credit": 8
+      }
+    ]
+  },
+  {
+    "id": "prothese",
+    "code": "X03SANTE",
+    "name": "PROTHESISTES DENTAIRES DE SANTE PUBLIQUE",
+    "abbreviation": "PROTH",
+    "duration": "3 ans",
+    "description": "Conception et fabrication des prothèses dentaires.",
+    "career": "Labos dentaires.",
+    "subjects": [
+      {
+        "name": "Technologie des Prothèses",
+        "coefficient": 4,
+        "credit": 7
+      }
+    ]
+  },
+  {
+    "id": "kine",
+    "code": "X04SANTE",
+    "name": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
+    "abbreviation": "KINE",
+    "duration": "3 ans",
+    "description": "Rééducation fonctionnelle.",
+    "career": "Centres de rééducation.",
+    "subjects": [
+      {
+        "name": "Biomécanique",
+        "coefficient": 4,
+        "credit": 8
+      }
+    ],
+    "semesters": [
+      {
+        "name": "Semestre 1",
+        "modules": [
+          {
+            "name": "Anatomie Physiologie.",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "Anthropologie/ Psychologie / Psychosociologie.",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Hygiène Hospitalière.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Législation/Ethique Prof/Déontologie.",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Santé Publique / Démographie / Economie de Santé.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Secourisme.",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Soins de base.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Remédiation linguistique / Techniques d’expression écrite et orale.",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Terminologie médicale.",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 2",
+        "modules": [
+          {
+            "name": "Anatomie descriptive et fonctionnelle",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "Technologie de base",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "Education physique et sportive",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Hygiène et masso kinésithérapie",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Méthodologie professionnelle : Démarche méthodologique du bilan kinésithérapique selon le projet thérapeutique.",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Nutrition",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Pharmacie",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Informatique/ Internet",
+            "coefficient": 1,
+            "credit": 2
+          }
+        ]
+      },
+      {
+        "name": "Semestre 3",
+        "modules": [
+          {
+            "name": "Traumatologie orthopédie et lecture radiologique",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Rhumatologie et lecture radiologique",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Pathologie infantile et déviations vertébrales et lecture radiologique",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Pathologies sportives",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Anatomie descriptive et fonctionnelle",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Technologie de base",
+            "coefficient": 3,
+            "credit": 5
+          },
+          {
+            "name": "Kinésithérapie en traumatologie",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Kinésithérapie en rhumatologie",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Kinésithérapie en pathologies infantiles et déviations vertébrales",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Kinésithérapie sportive",
+            "coefficient": 2,
+            "credit": 2
+          }
+        ]
+      },
+      {
+        "name": "Semestre 4",
+        "modules": [
+          {
+            "name": "Traumatologie - orthopédie et lecture radiologique (2ème partie)",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Rhumatologie et lecture radiologique (2ème partie)",
+            "coefficient": 3,
+            "credit": 1
+          },
+          {
+            "name": "Pathologie uro-génitale",
+            "coefficient": 2,
+            "credit": 1
+          },
+          {
+            "name": "Amputation et appareillage",
+            "coefficient": 3,
+            "credit": 1
+          },
+          {
+            "name": "Pathologies médico-chirurgicales",
+            "coefficient": 2,
+            "credit": 1
+          },
+          {
+            "name": "Neuro-anatomo-physiologie",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Kinésithérapie en traumatologie orthopédie (2ème partie)",
+            "coefficient": 3,
+            "credit": 6
+          },
+          {
+            "name": "Kinésithérapie en rhumatologie (2ème partie)",
+            "coefficient": 3,
+            "credit": 6
+          },
+          {
+            "name": "Kinésithérapie des amputés et appareillés",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Kinésithérapie en uro-génitale",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Kinésithérapie en P.M.C.",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Méthodologie du mémoire professionnel",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 5",
+        "modules": [
+          {
+            "name": "Neuro-pathologies",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Pathologies respiratoires, lecture radiologique et réanimation",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Pathologies cardiaques",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "kinésithérapie des pathologies neurologiques",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "kinésithérapie des pathologies respiratoires et réanimation",
+            "coefficient": 3,
+            "credit": 7
+          },
+          {
+            "name": "kinésithérapie en pathologies cardiovasculaires",
+            "coefficient": 3,
+            "credit": 7
+          }
+        ]
+      },
+      {
+        "name": "Semestre 6",
+        "modules": [
+          {
+            "name": "Techniques spécialisées en kinésithérapie",
+            "coefficient": 3,
+            "credit": 21
+          },
+          {
+            "name": "Psychologie, sociologie et relation thérapeutique",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Kinésithérapie en gériatrie",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Ergonomie",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Information, Education et Communication",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Pédagogie et tutorat",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "podo",
+    "code": "X05SANTE",
+    "name": "PEDICURE PODOLOGUE DE SANTE PUBLIQUE",
+    "abbreviation": "PODO",
+    "duration": "3 ans",
+    "description": "Soins et traitements des affections du pied.",
+    "career": "Cabinets libéraux.",
+    "subjects": [
+      {
+        "name": "Pathologies du pied",
+        "coefficient": 3,
+        "credit": 6
+      }
+    ]
+  },
+  {
+    "id": "ergo",
+    "code": "X06SANTE",
+    "name": "ERGOTHERAPEUTES DE SANTE PUBLIQUE",
+    "abbreviation": "ERGO",
+    "duration": "3 ans",
+    "description": "Rééducation par l'activité.",
+    "career": "Psychiatrie, Gériatrie.",
+    "subjects": [
+      {
+        "name": "Ergothérapie Avancée",
+        "coefficient": 4,
+        "credit": 7
+      }
+    ],
+    "semesters": [
+      {
+        "name": "Semestre 1",
+        "modules": [
+          {
+            "name": "Anatomie Physiologie.",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "Anthropologie/ Psychologie / Psychosociologie.",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Hygiène Hospitalière.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Législation/Ethique Prof/Déontologie.",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Santé Publique / Démographie / Economie de Santé.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Secourisme.",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Soins de base.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Remédiation linguistique / Techniques d’expression écrite et orale.",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Terminologie médicale.",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 2",
+        "modules": [
+          {
+            "name": "Anatomie descriptive et fonctionnelle",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Biomécanique et cinésiologie",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Méthodologie d’analyse de l’activité",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Technologie de base",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "Morphologie – Biométrie",
+            "coefficient": 2,
+            "credit": 1
+          },
+          {
+            "name": "Méthodologie et didactique professionnelle",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Modèles conceptuels de l’ergothérapie",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Séminaire d’intégration professionnelle et d’enseignement clinique",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Sémiologie",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Maitrise linguistique (anglais scientifique)",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Santé fonctionnelle et travail pluridisciplinaire",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Education pour la santé et santé communautaire",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Informatique et internet",
+            "coefficient": 2,
+            "credit": 2
+          }
+        ]
+      },
+      {
+        "name": "Semestre 3",
+        "modules": [
+          {
+            "name": "Anatomie et physiologie en neurologie SNC/SNP",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Rhumatologie",
+            "coefficient": 3,
+            "credit": 1
+          },
+          {
+            "name": "Traumatologie et orthopédie",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Gériatrie et gérontologie",
+            "coefficient": 3,
+            "credit": 1
+          },
+          {
+            "name": "Psychiatrie et psychopathologie",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Psychologie du développement",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements moteurs (1ère partie)",
+            "coefficient": 3,
+            "credit": 5
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements psychiques (1ère partie)",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements de la sénescence (1ère partie)",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Appareillage et aides techniques (1ère partie)",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Histoire et éthique professionnelle de l’ergothérapie",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Manutention",
+            "coefficient": 2,
+            "credit": 2
+          }
+        ]
+      },
+      {
+        "name": "Semestre 4",
+        "modules": [
+          {
+            "name": "Pathologies Neurologie centrale (1ère partie)",
+            "coefficient": 3,
+            "credit": 1
+          },
+          {
+            "name": "Pathologies Neurologie périphérique",
+            "coefficient": 3,
+            "credit": 1
+          },
+          {
+            "name": "Pathologies infantiles",
+            "coefficient": 3,
+            "credit": 1
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements de la sénescence (2ème partie)",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements moteurs (2ème partie)",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements psychiques (2ème partie)",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements neuro-psychologiques (1ère partie)",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements du développement (1ère partie)",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Appareillage et aides techniques (2ème partie)",
+            "coefficient": 3,
+            "credit": 1
+          },
+          {
+            "name": "Réadaptation professionnelle",
+            "coefficient": 3,
+            "credit": 1
+          },
+          {
+            "name": "Méthodologie d’évaluation du fonctionnement humain",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Séminaires d’intégration professionnelle",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Législation du Handicap",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Maitrise linguistique (anglais scientifique)",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Ergonomie",
+            "coefficient": 2,
+            "credit": 1
+          },
+          {
+            "name": "Méthodologie du mémoire professionnel (1ère partie)",
+            "coefficient": 2,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 5",
+        "modules": [
+          {
+            "name": "Pathologie Neurologie centrale (2ème partie)",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Psychologie générale et clinique",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Neuropsychologie (1ère partie)",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements neuro moteurs (1ère partie)",
+            "coefficient": 3,
+            "credit": 5
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements neuropsychologiques (2ème partie)",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements du développement (2ème Partie)",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Amputation et Ergothérapie",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Pathologie générale : métaboliques, cardiovasculaire",
+            "coefficient": 2,
+            "credit": 1
+          },
+          {
+            "name": "Séminaires d’intégration professionnelle",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Ergonomie de l’habitat (1ère partie)",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Méthodologie du mémoire professionnel (2ème partie)",
+            "coefficient": 2,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 6",
+        "modules": [
+          {
+            "name": "Neuropsychologie (2ème partie)",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Application de l’ergothérapie aux dysfonctionnements neuro moteurs (2ème partie)",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "Cancérologie et Ergothérapie",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Séminaires d’intégration professionnelle",
+            "coefficient": 3,
+            "credit": 12
+          },
+          {
+            "name": "Eléments d’organisation d’un service d’ergothérapie",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Ergonomie de l’habitat (2ème partie)",
+            "coefficient": 2,
+            "credit": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ortho-app",
+    "code": "X07SANTE",
+    "name": "APPAREILLEURS ORTHOPEDISTES DE SANTE PUBLIQUE",
+    "abbreviation": "ORTHO-APP",
+    "duration": "3 ans",
+    "description": "Conception et appareillages orthopédiques.",
+    "career": "Centres d'appareillages.",
+    "subjects": [
+      {
+        "name": "Fabrication d'Ortèses",
+        "coefficient": 4,
+        "credit": 8
+      }
+    ]
+  },
+  {
+    "id": "psycho",
+    "code": "X08SANTE",
+    "name": "PSYCHOMOTRICIENS DE SANTE PUBLIQUE",
+    "abbreviation": "PSYCHO",
+    "duration": "3 ans",
+    "description": "Thérapie des troubles psychomoteurs.",
+    "career": "Centres médico-psychologiques",
+    "subjects": [
+      {
+        "name": "Développement Psychomoteur",
+        "coefficient": 4,
+        "credit": 7
+      }
+    ]
+  },
+  {
+    "id": "manip-radio",
+    "code": "X09SANTE",
+    "name": "MANIPULATEURS EN IMAGERIE MEDICALE DE SANTE PUBLIQUE",
+    "abbreviation": "MIM",
+    "duration": "3 ans",
+    "description": "Imagerie médicale (Radio, Scanner).",
+    "career": "Centres d'imagerie.",
+    "subjects": [
+      {
+        "name": "Imagerie Rayons X",
+        "coefficient": 4,
+        "credit": 7
+      }
+    ],
+    "semesters": [
+      {
+        "name": "Semestre 1",
+        "modules": [
+          {
+            "name": "Anatomie Physiologie.",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "Anthropologie/ Psychologie / Psychosociologie.",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Hygiène Hospitalière.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Législation/Ethique Prof/Déontologie.",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Santé Publique / Démographie / Economie de Santé.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Secourisme.",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Soins de base.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Remédiation linguistique / Techniques d’expression écrite et orale.",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Terminologie médicale.",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 2",
+        "modules": [
+          {
+            "name": "Examens radiologiques osseux 2",
+            "coefficient": 2,
+            "credit": 9
+          },
+          {
+            "name": "Examens viscéraux",
+            "coefficient": 1,
+            "credit": 7
+          },
+          {
+            "name": "Radiopédiatrie",
+            "coefficient": 1,
+            "credit": 7
+          },
+          {
+            "name": "Informatique et internet",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Pharmacologie",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Examens biologiques",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Pathologies / Sémiologie / Sémiologie Radiologique",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Nutrition",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 3",
+        "modules": [
+          {
+            "name": "Examens spécialisés.",
+            "coefficient": 3,
+            "credit": 7
+          },
+          {
+            "name": "TDM : Physique appliquée et technologie",
+            "coefficient": 1,
+            "credit": 3
+          },
+          {
+            "name": "Exploration TDM",
+            "coefficient": 3,
+            "credit": 7
+          },
+          {
+            "name": "Ostéodensitométrie Physique appliquée/ Technologie/ /Techniques",
+            "coefficient": 1,
+            "credit": 3
+          },
+          {
+            "name": "Echographie : Physique appliquée et technologie / Techniques / Sémiologie.",
+            "coefficient": 1,
+            "credit": 3
+          },
+          {
+            "name": "Information, éducation, communication",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Anglais médical.",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Méthodologie de recherche et statistiques.",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Oncologie",
+            "coefficient": 1,
+            "credit": 2
+          }
+        ]
+      },
+      {
+        "name": "Semestre 4",
+        "modules": [
+          {
+            "name": "IRM : Physique appliquée et technologie",
+            "coefficient": 12,
+            "credit": 20
+          },
+          {
+            "name": "Exploration en IRM",
+            "coefficient": 2,
+            "credit": 6
+          },
+          {
+            "name": "Sémiologie de l’imagerie en coupes TDM et IRM",
+            "coefficient": 2,
+            "credit": 5
+          },
+          {
+            "name": "Radiologie interventionnelle.",
+            "coefficient": 2,
+            "credit": 6
+          },
+          {
+            "name": "Explorations électriques neuromusculaires",
+            "coefficient": 1,
+            "credit": 3
+          },
+          {
+            "name": "Organisation et gestion d’un service d’imagerie médicale",
+            "coefficient": 2,
+            "credit": 4
+          },
+          {
+            "name": "Dosimétrie.",
+            "coefficient": 1,
+            "credit": 3
+          }
+        ]
+      },
+      {
+        "name": "Semestre 5",
+        "modules": [
+          {
+            "name": "Médecine nucléaire",
+            "coefficient": 1,
+            "credit": 6
+          },
+          {
+            "name": "Radiothérapie",
+            "coefficient": 1,
+            "credit": 6
+          },
+          {
+            "name": "Réseaux de communication et archivage d’imagerie",
+            "coefficient": 1,
+            "credit": 3
+          },
+          {
+            "name": "Contrôle de qualité et assurance en imagerie médicale et thérapeutique",
+            "coefficient": 1,
+            "credit": 3
+          },
+          {
+            "name": "Mise en œuvre d’interventions relatives au projet (mémoire professionnel) et situations professionnelles",
+            "coefficient": 4,
+            "credit": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "labo",
+    "code": "X10SANTE",
+    "name": "LABORANTINS DE SANTE PUBLIQUE",
+    "abbreviation": "LABO",
+    "duration": "3 ans",
+    "description": "Analyses médicales.",
+    "career": "Laboratoires.",
+    "subjects": [
+      {
+        "name": "Biochimie Clinique",
+        "coefficient": 4,
+        "credit": 8
+      }
+    ],
+    "semesters": [
+      {
+        "name": "Semestre 1",
+        "modules": [
+          {
+            "name": "Anatomie Physiologie.",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "Anthropologie/ Psychologie / Psychosociologie.",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Hygiène Hospitalière.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Législation/Ethique Prof/Déontologie.",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Santé Publique / Démographie / Economie de Santé.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Secourisme.",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Soins de base.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Remédiation linguistique / Techniques d’expression écrite et orale.",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Terminologie médicale.",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 2",
+        "modules": [
+          {
+            "name": "Chimie",
+            "coefficient": 4,
+            "credit": 10
+          },
+          {
+            "name": "Biophysique",
+            "coefficient": 2,
+            "credit": 5
+          },
+          {
+            "name": "Maths statistiques",
+            "coefficient": 1,
+            "credit": 3
+          },
+          {
+            "name": "Prélèvement et approche du malade",
+            "coefficient": 2,
+            "credit": 6
+          },
+          {
+            "name": "Sémiologie",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Pharmacie",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Informatique/Internet",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Nutrition",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Anglais technique",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 3",
+        "modules": [
+          {
+            "name": "Bactériologie générale",
+            "coefficient": 3,
+            "credit": 6
+          },
+          {
+            "name": "Biochimie générale",
+            "coefficient": 3,
+            "credit": 5
+          },
+          {
+            "name": "Immunologie",
+            "coefficient": 3,
+            "credit": 5
+          },
+          {
+            "name": "Bactériologie systématique",
+            "coefficient": 3,
+            "credit": 5
+          },
+          {
+            "name": "Parasitologie",
+            "coefficient": 3,
+            "credit": 5
+          },
+          {
+            "name": "Qualité, hygiène et sécurité",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Technologie et maintenance",
+            "coefficient": 1,
+            "credit": 3
+          }
+        ]
+      },
+      {
+        "name": "Semestre 4",
+        "modules": [
+          {
+            "name": "Anatomie et cytopathologie",
+            "coefficient": 2,
+            "credit": 6
+          },
+          {
+            "name": "Hématologie générale",
+            "coefficient": 3,
+            "credit": 6
+          },
+          {
+            "name": "Mycologie",
+            "coefficient": 2,
+            "credit": 4
+          },
+          {
+            "name": "Bactériologie appliquée",
+            "coefficient": 4,
+            "credit": 6
+          },
+          {
+            "name": "Biochimie appliquée",
+            "coefficient": 4,
+            "credit": 6
+          },
+          {
+            "name": "Méthodologie du mémoire professionnel",
+            "coefficient": 2,
+            "credit": 2
+          }
+        ]
+      },
+      {
+        "name": "Semestre 5",
+        "modules": [
+          {
+            "name": "Biologie moléculaire et cellulaire",
+            "coefficient": 3,
+            "credit": 5
+          },
+          {
+            "name": "Virologie",
+            "coefficient": 2,
+            "credit": 4
+          },
+          {
+            "name": "Sérologie",
+            "coefficient": 4,
+            "credit": 7
+          },
+          {
+            "name": "Hématologie appliquée",
+            "coefficient": 4,
+            "credit": 7
+          },
+          {
+            "name": "Parasitologie mycologie appliquées",
+            "coefficient": 4,
+            "credit": 7
+          }
+        ]
+      },
+      {
+        "name": "Semestre 6",
+        "modules": [
+          {
+            "name": "Toxicologie",
+            "coefficient": 2,
+            "credit": 6
+          },
+          {
+            "name": "Bactériologie*",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Biochimie*",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Séro-hématologie*",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Parasitologie-mycologie*",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Anatomo-cytopathologie appliquée",
+            "coefficient": 3,
+            "credit": 6
+          },
+          {
+            "name": "Information Education Communication",
+            "coefficient": 1,
+            "credit": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prep-pharma",
+    "code": "X11SANTE",
+    "name": "PREPARATEURS EN PHARMACIE DE SANTE PUBLIQUE",
+    "abbreviation": "PREP",
+    "duration": "3 ans",
+    "description": "Préparation des produits pharmaceutiques.",
+    "career": "Pharmacies, hôpitaux.",
+    "subjects": [
+      {
+        "name": "Pharmacologie Appliquée",
+        "coefficient": 4,
+        "credit": 8
+      }
+    ]
+  },
+  {
+    "id": "hygiene",
+    "code": "X12SANTE",
+    "name": "HYGIENISTES DE SANTE PUBLIQUE",
+    "abbreviation": "HYG",
+    "duration": "3 ans",
+    "description": "Contrôle de l'hygiène environnementale.",
+    "career": "Structures de soins.",
+    "subjects": [
+      {
+        "name": "Hygiène Hospitalière",
+        "coefficient": 3,
+        "credit": 6
+      }
+    ]
+  },
+  {
+    "id": "ass-med",
+    "code": "X13SANTE",
+    "name": "ASSISTANTS MEDICAUX DE SANTE PUBLIQUE",
+    "abbreviation": "ASS-MED",
+    "duration": "3 ans",
+    "description": "Assistance dans les processus médicaux.",
+    "career": "Cabinets, Urgences.",
+    "subjects": [
+      {
+        "name": "Logistique Médicale",
+        "coefficient": 3,
+        "credit": 5
+      }
+    ],
+    "semesters": [
+      {
+        "name": "Semestre 1",
+        "modules": [
+          {
+            "name": "Anatomie Physiologie.",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "Anthropologie/ Psychologie / Psychosociologie.",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Hygiène Hospitalière.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Législation/Ethique Prof/Déontologie.",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Santé Publique / Démographie / Economie de Santé.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Secourisme.",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Soins de base.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Remédiation linguistique / Techniques d’expression écrite et orale.",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Terminologie médicale.",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 2",
+        "modules": [
+          {
+            "name": "Communication (I)",
+            "coefficient": 4,
+            "credit": 5
+          },
+          {
+            "name": "Organisation et Gestion de l’espace de travail (I)",
+            "coefficient": 4,
+            "credit": 5
+          },
+          {
+            "name": "Gestion de l’information (I)",
+            "coefficient": 4,
+            "credit": 5
+          },
+          {
+            "name": "Technique de saisie et d’enregistrement (I)",
+            "coefficient": 4,
+            "credit": 5
+          },
+          {
+            "name": "Informatique/Internet",
+            "coefficient": 1,
+            "credit": 3
+          },
+          {
+            "name": "Projet d’éducation pour la santé (IEC)",
+            "coefficient": 2,
+            "credit": 4
+          },
+          {
+            "name": "Pharmacologie",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Sémiologie",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Nutrition",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 3",
+        "modules": [
+          {
+            "name": "Communication (II)",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Organisation et Gestion de l’espace de travail (II)",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Gestion de l’information (II)",
+            "coefficient": 4,
+            "credit": 3
+          },
+          {
+            "name": "Les écrits professionnels (1)",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Technique de saisie et d’enregistrement (II)",
+            "coefficient": 4,
+            "credit": 3
+          },
+          {
+            "name": "Méthodologie de résolution de problèmes",
+            "coefficient": 2,
+            "credit": 5
+          },
+          {
+            "name": "Français",
+            "coefficient": 4,
+            "credit": 5
+          },
+          {
+            "name": "Statistiques",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Pathologies médicochirurgicales",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Examens d’investigation",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 4",
+        "modules": [
+          {
+            "name": "Organisation et Gestion de l’espace de travail (III)",
+            "coefficient": 4,
+            "credit": 2
+          },
+          {
+            "name": "Gestion de l’information (III)",
+            "coefficient": 4,
+            "credit": 2
+          },
+          {
+            "name": "Les écrits professionnels (I1)",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Technique de saisie et d’enregistrement (III)",
+            "coefficient": 4,
+            "credit": 2
+          },
+          {
+            "name": "Anglais professionnel",
+            "coefficient": 2,
+            "credit": 1
+          },
+          {
+            "name": "Méthodologie du mémoire professionnel",
+            "coefficient": 2,
+            "credit": 12
+          },
+          {
+            "name": "Système d’information hospitalière",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Pratique d’expression",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Organisation de la protection sociale",
+            "coefficient": 2,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 5",
+        "modules": [
+          {
+            "name": "Gestion de l’information (IV)",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Informatique/Bureautique (I)",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Ecrits professionnels (III)",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Interprétation et traduction",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Etude et analyse de situation professionnelle (I)",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Techniques multimédias",
+            "coefficient": 2,
+            "credit": 4
+          },
+          {
+            "name": "Comptabilité",
+            "coefficient": 2,
+            "credit": 5
+          },
+          {
+            "name": "Technologie de l’information et de la communication",
+            "coefficient": 2,
+            "credit": 6
+          },
+          {
+            "name": "Système management qualité",
+            "coefficient": 2,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 6",
+        "modules": [
+          {
+            "name": "Informatique /Bureautique (II)",
+            "coefficient": 4,
+            "credit": 13
+          },
+          {
+            "name": "Etude et analyse de situation professionnelle (II)",
+            "coefficient": 5,
+            "credit": 15
+          },
+          {
+            "name": "Encadrement et tutorat",
+            "coefficient": 3,
+            "credit": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ass-soc",
+    "code": "X14SANTE",
+    "name": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
+    "abbreviation": "ASS-SOC",
+    "duration": "3 ans",
+    "description": "Accompagnement social des patients.",
+    "career": "Centres sociaux.",
+    "subjects": [
+      {
+        "name": "Sociologie de la Santé",
+        "coefficient": 3,
+        "credit": 6
+      }
+    ],
+    "semesters": [
+      {
+        "name": "Semestre 1",
+        "modules": [
+          {
+            "name": "Anatomie Physiologie.",
+            "coefficient": 3,
+            "credit": 8
+          },
+          {
+            "name": "Anthropologie/ Psychologie / Psychosociologie.",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Hygiène Hospitalière.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Législation/Ethique Prof/Déontologie.",
+            "coefficient": 3,
+            "credit": 2
+          },
+          {
+            "name": "Santé Publique / Démographie / Economie de Santé.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Secourisme.",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Soins de base.",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Remédiation linguistique / Techniques d’expression écrite et orale.",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Terminologie médicale.",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 2",
+        "modules": [
+          {
+            "name": "Service social 1ère partie.",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Psychologie 2éme partie.",
+            "coefficient": 4,
+            "credit": 3
+          },
+          {
+            "name": "Sociologie 2éme partie.",
+            "coefficient": 4,
+            "credit": 3
+          },
+          {
+            "name": "Droit civil.",
+            "coefficient": 4,
+            "credit": 3
+          },
+          {
+            "name": "Ethique et déontologie professionnelle.",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Nutrition/diététique",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Obstétrique sociale",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Puériculture",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Santé maternelle et infantile",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Informatique internet",
+            "coefficient": 1,
+            "credit": 2
+          },
+          {
+            "name": "Pharmacie",
+            "coefficient": 1,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 3",
+        "modules": [
+          {
+            "name": "Service social 2ème partie",
+            "coefficient": 4,
+            "credit": 5
+          },
+          {
+            "name": "Psychologie 3ème partie",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Sociologie 3ème partie",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Droit du travail",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Sécurité sociale",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Relation de face à face en service social",
+            "coefficient": 3,
+            "credit": 4
+          },
+          {
+            "name": "Protection médico-sociale (PMS)",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Psychiatrie",
+            "coefficient": 2,
+            "credit": 1
+          }
+        ]
+      },
+      {
+        "name": "Semestre 4",
+        "modules": [
+          {
+            "name": "Service social 3ème partie",
+            "coefficient": 100,
+            "credit": 20
+          },
+          {
+            "name": "Psychologie 4ème partie",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Droit public",
+            "coefficient": 4,
+            "credit": 3
+          },
+          {
+            "name": "Droit pénal et procédure pénale",
+            "coefficient": 4,
+            "credit": 5
+          },
+          {
+            "name": "Economie sociale",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Pathologie médico chirurgicale",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Méthodologie de recherche de mémoire",
+            "coefficient": 1,
+            "credit": 1
+          },
+          {
+            "name": "Pédiatrie",
+            "coefficient": 2,
+            "credit": 2
+          }
+        ]
+      },
+      {
+        "name": "Semestre 5",
+        "modules": [
+          {
+            "name": "Psychosociologie",
+            "coefficient": 4,
+            "credit": 9
+          },
+          {
+            "name": "Psychopathologie générale",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Psychopathologie de l’enfant",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Psychopathologie de la délinquance juvénile",
+            "coefficient": 2,
+            "credit": 3
+          },
+          {
+            "name": "Psychopathologie de l’adulte",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Médiation",
+            "coefficient": 4,
+            "credit": 4
+          },
+          {
+            "name": "Management",
+            "coefficient": 9,
+            "credit": 3
+          },
+          {
+            "name": "Gérontologie sociale",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Maladies infectieuses et transmissibles",
+            "coefficient": 2,
+            "credit": 2
+          }
+        ]
+      },
+      {
+        "name": "Semestre 6",
+        "modules": [
+          {
+            "name": "service social",
+            "coefficient": 4,
+            "credit": 20
+          },
+          {
+            "name": "Marché de l’assurance",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Approche systémique en service social",
+            "coefficient": 3,
+            "credit": 3
+          },
+          {
+            "name": "Anglais",
+            "coefficient": 2,
+            "credit": 2
+          },
+          {
+            "name": "Information, éducation et communication (I.E.C)",
+            "coefficient": 2,
+            "credit": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "orthoptie",
+    "code": "X15SANTE",
+    "name": "ORTHOPTISTES DE SANTE PUBLIQUE",
+    "abbreviation": "ORTH",
+    "duration": "3 ans",
+    "description": "Rééducation des troubles de la vision.",
+    "career": "Cabinets d'ophtalmologie."
+  },
+  {
+    "id": "audioprothese",
+    "code": "X16SANTE",
+    "name": "AUDIOPROTHESISTES DE SANTE PUBLIQUE",
+    "abbreviation": "AUDIO",
+    "duration": "3 ans",
+    "description": "Appareillage et réveils auditifs.",
+    "career": "Centres d'audioprothèse."
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "gen-s1-anat-intro",
+    "specialtyId": "ergo",
+    "subjectId": "Anatomie Physiologie.",
+    "semester": 1,
+    "title": "Introduction à l'Anatomie Générale",
+    "type": "Video",
+    "description": "Cours complet sur les bases de l'anatomie humaine par le Professeur Olivier Trost.",
+    "size": "HD",
+    "duration": "12:45",
+    "views": 1560,
+    "downloadUrl": "https://www.youtube.com/watch?v=R9Z_fHkAn3g"
+  },
+  {
+    "id": "gen-s1-anat-osteologie",
+    "specialtyId": "labo",
+    "subjectId": "Anatomie Physiologie.",
+    "semester": 1,
+    "title": "Ostéologie : Le Squelette Humain",
+    "type": "Video",
+    "description": "Étude détaillée du système osseux, indispensable pour tous les paramédicaux.",
+    "size": "HD",
+    "duration": "18:20",
+    "views": 2340,
+    "downloadUrl": "https://www.youtube.com/watch?v=S2uD8m8z0J8"
+  },
+  {
+    "id": "isp-s1-soins-base",
+    "specialtyId": "isp",
+    "subjectId": "Soins de base.",
+    "semester": 1,
+    "title": "Les Principes Fondamentaux des Soins Infirmiers",
+    "type": "Video",
+    "description": "Introduction aux soins de base et à la posture du soignant par Objectif Soignant.",
+    "size": "HD",
+    "duration": "15:10",
+    "views": 4120,
+    "downloadUrl": "https://www.youtube.com/watch?v=Yf1v_v8q-as"
+  },
+  {
+    "id": "isp-s2-hygiene",
+    "specialtyId": "isp",
+    "subjectId": "Hygiène hospitalière – 2ème partie",
+    "semester": 2,
+    "title": "Lavage des mains et Asepsie",
+    "type": "Video",
+    "description": "Techniques de lavage des mains et protocoles d'hygiène en milieu hospitalier.",
+    "size": "HD",
+    "duration": "08:45",
+    "views": 5600,
+    "downloadUrl": "https://www.youtube.com/watch?v=68E6XfX6Z1w"
+  },
+  {
+    "id": "kine-s1-biomeca",
+    "specialtyId": "kine",
+    "subjectId": "Anatomie Physiologie.",
+    "semester": 1,
+    "title": "Biomécanique de l'épaule",
+    "type": "Video",
+    "description": "Analyse fonctionnelle et biomécanique complexe de l'articulation de l'épaule.",
+    "size": "HD",
+    "duration": "22:30",
+    "views": 1890,
+    "downloadUrl": "https://www.youtube.com/watch?v=P_Rz6j06J9I"
+  },
+  {
+    "id": "mim-electrisation",
+    "specialtyId": "manip-radio",
+    "subjectId": "physique fondamentale",
+    "semester": 2,
+    "title": "Electrisation",
+    "type": "PDF",
+    "description": "Cours 1 de physique fondamentale 'Eléctrisation'",
+    "size": "98.1 KB",
+    "duration": "4",
+    "downloadUrl": "https://drive.google.com/file/d/13vgDiVA1a_0slG0Rjmt1mIk8X0qaLi59/view?usp=drivesdk",
+    "views": 0
+  }
+]
