@@ -65,7 +65,7 @@ export default function HomeClient() {
             </Link>
             <span className="opacity-30">|</span>
             <a href="https://instagram.com/PRO_DESIGN8825" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-              Instagram
+              Instagram (@PRO_DESIGN8825)
             </a>
             <span className="opacity-30">|</span>
             <Link href="/a-propos" className="hover:text-primary transition-colors">
