@@ -5,8 +5,8 @@
     "name": "SAGE FEMME DE SANTE PUBLIQUE",
     "abbreviation": "SAGE-FEMME",
     "duration": "3 à 4 ans",
-    "description": "Suivi des grossesses, accouchements et soins obstétricaux.",
-    "career": "Maternités, PMI.",
+    "description": "La formation de sage-femme prépare des professionnels capables d'assurer le suivi complet de la grossesse, l'accompagnement de la mère pendant l'accouchement et les soins obstétricaux postnatals. Ce cursus rigoureux forme les futurs garants de la santé maternelle et infantile.",
+    "career": "Maternités, cliniques d'accouchement, centres de Protection Maternelle et Infantile (PMI), cabinets libéraux.",
     "subjects": [
       {
         "name": "Anatomie Obstétricale",
@@ -21,8 +21,8 @@
     "name": "INFIMIERS DE SANTE PUBLIQUE",
     "abbreviation": "ISP",
     "duration": "3 ans",
-    "description": "Formation polyvalente pour les soins hospitaliers.",
-    "career": "Hôpitaux, cliniques.",
+    "description": "La formation d'Infirmier de Santé Publique est une filière polyvalente qui forme le pivot du système de soins hospitaliers. Les étudiants apprennent à dispenser des soins infirmiers de base, à administrer des traitements et à assurer la surveillance clinique des patients.",
+    "career": "Hôpitaux publics, CHU, cliniques privées, centres de santé de proximité, médecine du travail.",
     "subjects": [
       {
         "name": "Soins Infirmiers de Base",
@@ -154,8 +154,8 @@
     "name": "DIETETICIENS DE SANTE PUBLIQUE",
     "abbreviation": "DIET",
     "duration": "3 ans",
-    "description": "Prévention et traitement nutritionnel des maladies.",
-    "career": "Hôpitaux, Restauration.",
+    "description": "Le diététicien de santé publique est un expert de la nutrition. La formation couvre la prévention nutritionnelle, l'élaboration de régimes thérapeutiques adaptés aux pathologies (diabète, maladies cardiovasculaires) et la gestion de la restauration collective.",
+    "career": "Services hospitaliers spécialisés (endocrinologie, pédiatrie), centres de rééducation, restauration collective, centres sportifs.",
     "subjects": [
       {
         "name": "Nutrition et Diététique",
@@ -170,8 +170,8 @@
     "name": "PROTHESISTES DENTAIRES DE SANTE PUBLIQUE",
     "abbreviation": "PROTH",
     "duration": "3 ans",
-    "description": "Conception et fabrication des prothèses dentaires.",
-    "career": "Labos dentaires.",
+    "description": "La spécialité de prothésiste dentaire allie compétences techniques et sensibilité esthétique. Les étudiants apprennent la conception, la fabrication et la réparation des différents types de prothèses dentaires (fixes et amovibles) en collaboration avec les chirurgiens-dentistes.",
+    "career": "Laboratoires de prothèses dentaires indépendants, CHU (services de stomatologie et médecine dentaire).",
     "subjects": [
       {
         "name": "Technologie des Prothèses",
@@ -186,8 +186,8 @@
     "name": "KINESITHERAPEUTES DE SANTE PUBLIQUE",
     "abbreviation": "KINE",
     "duration": "3 ans",
-    "description": "Rééducation fonctionnelle.",
-    "career": "Centres de rééducation.",
+    "description": "La kinésithérapie est axée sur la rééducation fonctionnelle par le mouvement et les techniques manuelles. La formation approfondie en biomécanique et physiologie permet aux futurs professionnels de traiter les troubles musculosquelettiques, neurologiques et respiratoires.",
+    "career": "Centres de rééducation fonctionnelle, hôpitaux (orthopédie, neurologie, rhumatologie), médecine sportive, cabinets libéraux.",
     "subjects": [
       {
         "name": "Biomécanique",
@@ -489,8 +489,8 @@
     "name": "PEDICURE PODOLOGUE DE SANTE PUBLIQUE",
     "abbreviation": "PODO",
     "duration": "3 ans",
-    "description": "Soins et traitements des affections du pied.",
-    "career": "Cabinets libéraux.",
+    "description": "Le pédicure-podologue est le spécialiste des affections du pied. La formation englobe les soins d'hygiène, le traitement des pathologies épidermiques et unguéales, ainsi que la conception d'orthèses plantaires sur mesure pour corriger les troubles statiques.",
+    "career": "Cabinets libéraux (très fréquent), services d'endocrinologie (pied diabétique), centres d'appareillage orthopédique.",
     "subjects": [
       {
         "name": "Pathologies du pied",
@@ -505,8 +505,8 @@
     "name": "ERGOTHERAPEUTES DE SANTE PUBLIQUE",
     "abbreviation": "ERGO",
     "duration": "3 ans",
-    "description": "Rééducation par l'activité.",
-    "career": "Psychiatrie, Gériatrie.",
+    "description": "L'ergothérapie vise à maintenir, restaurer ou faciliter les activités humaines de manière sécurisée et autonome. La formation prépare les étudiants à utiliser l'activité comme outil thérapeutique pour les personnes souffrant de handicaps physiques ou mentaux.",
+    "career": "Services de psychiatrie, centres de réadaptation, EHPAD, services de gériatrie et de pédiatrie spécialisée.",
     "subjects": [
       {
         "name": "Ergothérapie Avancée",
@@ -888,8 +888,8 @@
     "name": "APPAREILLEURS ORTHOPEDISTES DE SANTE PUBLIQUE",
     "abbreviation": "ORTHO-APP",
     "duration": "3 ans",
-    "description": "Conception et appareillages orthopédiques.",
-    "career": "Centres d'appareillages.",
+    "description": "L'appareilleur orthopédiste conçoit, fabrique et adapte les prothèses (membres artificiels) et les orthèses (corsets, attelles). La formation allie biomécanique, maîtrise des matériaux (résine, carbone) et relation thérapeutique avec les patients amputés.",
+    "career": "Centres d'appareillage orthopédique (ONAAPH en Algérie), structures de rééducation fonctionnelle, ateliers privés.",
     "subjects": [
       {
         "name": "Fabrication d'Ortèses",
@@ -920,8 +920,8 @@
     "name": "MANIPULATEURS EN IMAGERIE MEDICALE DE SANTE PUBLIQUE",
     "abbreviation": "MIM",
     "duration": "3 ans",
-    "description": "Imagerie médicale (Radio, Scanner).",
-    "career": "Centres d'imagerie.",
+    "description": "Le manipulateur en imagerie médicale est un technicien hautement qualifié qui réalise les examens radiologiques (radiographie, scanner, IRM) sur prescription médicale. La formation allie maîtrise des rayonnements, anatomie radiologique et relation patient.",
+    "career": "Services de radiologie des CHU, cliniques d'imagerie médicale, centres de traitement en radiothérapie.",
     "subjects": [
       {
         "name": "Imagerie Rayons X",
@@ -1153,8 +1153,8 @@
     "name": "LABORANTINS DE SANTE PUBLIQUE",
     "abbreviation": "LABO",
     "duration": "3 ans",
-    "description": "Analyses médicales.",
-    "career": "Laboratoires.",
+    "description": "Le laborantin de santé publique réalise les prélèvements et les analyses biologiques (biochimie, hématologie, microbiologie) nécessaires au diagnostic médical. La formation garantit la maîtrise des automates d'analyse et des protocoles de qualité rigoureux.",
+    "career": "Laboratoires d'analyses médicales (publics et privés), services d'hémobiologie et de transfusion sanguine.",
     "subjects": [
       {
         "name": "Biochimie Clinique",
@@ -1416,8 +1416,8 @@
     "name": "PREPARATEURS EN PHARMACIE DE SANTE PUBLIQUE",
     "abbreviation": "PREP",
     "duration": "3 ans",
-    "description": "Préparation des produits pharmaceutiques.",
-    "career": "Pharmacies, hôpitaux.",
+    "description": "Le préparateur en pharmacie est le collaborateur direct du pharmacien. La formation approfondie en pharmacologie et législation permet la délivrance des médicaments, la réalisation de préparations magistrales et la gestion des stocks de produits de santé.",
+    "career": "Pharmacies d'officine (privées), pharmacies hospitalières, industrie pharmaceutique.",
     "subjects": [
       {
         "name": "Pharmacologie Appliquée",
@@ -1432,8 +1432,8 @@
     "name": "HYGIENISTES DE SANTE PUBLIQUE",
     "abbreviation": "HYG",
     "duration": "3 ans",
-    "description": "Contrôle de l'hygiène environnementale.",
-    "career": "Structures de soins.",
+    "description": "L'hygiéniste de santé publique est le garant de la sécurité sanitaire en milieu hospitalier. La formation permet de prévenir les infections nosocomiales, d'élaborer des protocoles de stérilisation et de veiller à l'application stricte des règles d'hygiène.",
+    "career": "Comités de Lutte contre les Infections Nosocomiales (CLIN), services d'épidémiologie, directions de santé publique.",
     "subjects": [
       {
         "name": "Hygiène Hospitalière",
@@ -1448,8 +1448,8 @@
     "name": "ASSISTANTS MEDICAUX DE SANTE PUBLIQUE",
     "abbreviation": "ASS-MED",
     "duration": "3 ans",
-    "description": "Assistance dans les processus médicaux.",
-    "career": "Cabinets, Urgences.",
+    "description": "L'assistant médical est le relais administratif et organisationnel au sein d'une structure de soins. La formation couvre la gestion des dossiers patients, la facturation, l'accueil et la coordination du parcours de soins en étroite collaboration avec les médecins.",
+    "career": "Secrétariats médicaux, cliniques privées, cabinets de médecins spécialistes, directions hospitalières.",
     "subjects": [
       {
         "name": "Logistique Médicale",
@@ -1741,8 +1741,8 @@
     "name": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
     "abbreviation": "ASS-SOC",
     "duration": "3 ans",
-    "description": "Accompagnement social des patients.",
-    "career": "Centres sociaux.",
+    "description": "L'assistant social de santé publique aide les patients à surmonter leurs difficultés sociales, administratives ou financières liées à leur état de santé. La formation prépare à l'accompagnement social, l'orientation et l'accès aux droits de santé.",
+    "career": "Services sociaux des hôpitaux, centres de protection maternelle et infantile (PMI), structures de sécurité sociale.",
     "subjects": [
       {
         "name": "Sociologie de la Santé",

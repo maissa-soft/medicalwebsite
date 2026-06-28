@@ -26,8 +26,7 @@ export const WILAYAS_AR: Record<string, string> = {
   "saïda": "سعيدة",
   "saida": "سعيدة",
   "skikda": "سكيكدة",
-  "sidi bel abbès": "سيدي بلعباس",
-  "sidi bel abbes": "sidi bel abbes",
+  "sidi bel abbes": "سيدي بلعباس",
   "annaba": "عنابة",
   "guelma": "قالمة",
   "constantine": "قسنطينة",
@@ -45,10 +44,12 @@ export const WILAYAS_AR: Record<string, string> = {
   "bordj bou-arreridj": "برج بوعريريج",
   "boumerdès": "بومرداس",
   "boumerdes": "بومرداس",
+  "eltarf": "الطارف",
   "el tarf": "الطارف",
   "tindouf": "تندوف",
   "tissemsilt": "تيسمسيلت",
   "el oued": "الوادي",
+  "khenchla": "خنشلة",
   "khenchela": "خنشلة",
   "souk ahras": "سوق أهراس",
   "tipaza": "تيبازة",
@@ -62,6 +63,7 @@ export const WILAYAS_AR: Record<string, string> = {
   "ghardaïa": "غرداية",
   "ghardaia": "غرداية",
   "relizane": "غليزان",
+  "el mghaier": "المغير",
   "el m'ghair": "المغير",
   "touggourt": "تقرت",
   "ouled djellal": "أولاد جلال",
@@ -69,7 +71,7 @@ export const WILAYAS_AR: Record<string, string> = {
   "beni abbes": "بني عباس",
   "in salah": "عين صالح",
   "in guezzam": "عين قزام",
-  "bordj badji mokhtar": "برj باجي مختار",
+  "bordj badji mokhtar": "برج باجي مختار",
   "djanet": "جانت",
   "el meniaa": "المنيعة",
   "timimoun": "تيميمون"
@@ -261,8 +263,24 @@ export const UI_TRANSLATIONS: Record<string, Record<'fr' | 'ar', string>> = {
 
 // Global translation helpers
 export function translateWilaya(wilaya: string, lang: 'fr' | 'ar'): string {
-  if (lang === 'fr' || !wilaya) return wilaya;
+  if (!wilaya) return wilaya;
   const cleaned = wilaya.trim().toLowerCase();
+  
+  if (lang === 'fr') {
+    // Normalisations françaises pour accents et majuscules
+    const FR_NORMALIZED: Record<string, string> = {
+      "sidi bel abbes": "Sidi Bel Abbès",
+      "sidi bel abbès": "Sidi Bel Abbès",
+      "eltarf": "El Tarf",
+      "el tarf": "El Tarf",
+      "khenchla": "Khenchela",
+      "khenchela": "Khenchela",
+      "el mghaier": "El M'Ghair",
+      "el m'ghair": "El M'Ghair",
+    };
+    return FR_NORMALIZED[cleaned] || wilaya;
+  }
+  
   return WILAYAS_AR[cleaned] || wilaya;
 }
 

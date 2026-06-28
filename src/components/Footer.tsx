@@ -52,12 +52,17 @@ export default function Footer() {
         </div>
 
         {/* Footer Bottom */}
-        <div className="flex flex-col sm:flex-row items-center justify-between text-center sm:text-start gap-4 mt-8 text-slate-500 text-sm font-medium">
+        <div className="flex flex-col md:flex-row items-center justify-between text-center md:text-start gap-4 mt-8 pt-8 border-t border-slate-100 text-slate-500 text-sm font-medium">
           <div className="flex items-center gap-2 flex-wrap justify-center sm:justify-start">
             <span>{t("footer.created_by")}</span>
-            <span className="inline-block text-transparent bg-clip-text bg-gradient-to-r from-primary to-purple-500 font-black text-base animate-pulse hover:scale-110 transition-all duration-300 cursor-pointer drop-shadow-sm">
+            <span className="inline-block text-transparent bg-clip-text bg-gradient-to-r from-primary to-purple-500 font-black text-base hover:scale-110 transition-transform cursor-pointer drop-shadow-sm">
               ❤️ MeissaSoft ❤️
             </span>
+          </div>
+          <div className="flex flex-wrap justify-center gap-x-6 gap-y-2">
+            <a href="/a-propos" className="hover:text-primary transition-colors">À Propos</a>
+            <a href="/politique-confidentialite" className="hover:text-primary transition-colors">Confidentialité</a>
+            <a href="/conditions-utilisation" className="hover:text-primary transition-colors">Conditions</a>
           </div>
           <div>
             <span>{t("footer.rights")} &copy; {new Date().getFullYear()}</span>

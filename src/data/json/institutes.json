@@ -6,7 +6,7 @@
     "wilaya": "Adrar",
     "location": "Adrar",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'INFSPM d'Adrar est un pôle d'excellence pour la formation paramédicale dans le sud algérien. Il se distingue par ses équipements modernes et sa contribution vitale à la couverture sanitaire de la région de la Saoura.",
     "specialties": [
       "isp",
       "kine",
@@ -35,7 +35,7 @@
     "wilaya": "Batna",
     "location": "Batna",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "Situé au cœur des Aurès, l'INFSPM de Batna forme depuis des années l'élite du personnel paramédical de l'Est du pays, avec une forte spécialisation en kinésithérapie et en rééducation fonctionnelle.",
     "specialties": [
       "isp",
       "kine",
@@ -66,7 +66,7 @@
     "wilaya": "Béjaïa",
     "location": "Béjaïa",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'INFSPM de Béjaïa offre un cadre d'études exceptionnel en région kabyle. Cet institut est particulièrement reconnu pour la qualité de sa formation en soins infirmiers et son partenariat actif avec les hôpitaux locaux.",
     "specialties": [
       "isp",
       "labo",
@@ -93,7 +93,7 @@
     "wilaya": "Biskra",
     "location": "Biskra",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "Porte du désert, l'INFSPM de Biskra répond aux besoins croissants en personnel de santé dans les Zibans. Il propose une large gamme de spécialités allant de la radiologie aux prothèses dentaires.",
     "specialties": [
       "isp",
       "prothese",
@@ -124,7 +124,7 @@
     "wilaya": "Béchar",
     "location": "Béchar",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'institut de Béchar joue un rôle stratégique dans la formation de cadres paramédicaux pour le sud-ouest algérien, avec un accent mis sur l'encadrement de proximité et la pratique clinique.",
     "specialties": [
       "isp",
       "kine",
@@ -153,7 +153,7 @@
     "wilaya": "Blida",
     "location": "Blida",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "Proche de la capitale, l'INFSPM de Blida bénéficie d'une situation géographique privilégiée et d'infrastructures de pointe, formant des professionnels hautement qualifiés dans plus de 8 spécialités différentes.",
     "specialties": [
       "isp",
       "prothese",
@@ -185,7 +185,7 @@
     "wilaya": "Bouira",
     "location": "Bouira",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'INFSPM de Bouira se concentre sur les spécialités essentielles comme les soins infirmiers et l'hygiène hospitalière, garantissant une insertion professionnelle rapide pour ses diplômés au niveau régional.",
     "specialties": [
       "isp",
       "manip-radio",
@@ -211,7 +211,7 @@
     "wilaya": "Tébessa",
     "location": "Tébessa",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'institut de Tébessa, à l'extrême Est du pays, est un acteur clé de la santé publique frontalière. Il offre un encadrement rigoureux et des formations adaptées aux défis sanitaires locaux.",
     "specialties": [
       "isp",
       "manip-radio",
@@ -238,7 +238,7 @@
     "wilaya": "Tiaret",
     "location": "Tiaret",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "Au centre des Hauts Plateaux, l'INFSPM de Tiaret se distingue par son campus dynamique et sa formation polyvalente, préparant ses étudiants aux exigences du secteur paramédical moderne.",
     "specialties": [
       "isp",
       "manip-radio",
@@ -266,7 +266,7 @@
     "wilaya": "Alger",
     "location": "Alger",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "Le plus grand institut paramédical d'Algérie, l'INFSPM d'Alger propose la plus grande diversité de spécialités (14 au total). C'est le centre de référence national pour les filières rares comme l'ergothérapie et l'appareillage orthopédique.",
     "specialties": [
       "isp",
       "diet",
@@ -303,7 +303,7 @@
     "wilaya": "Jijel",
     "location": "Jijel",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "Face à la Méditerranée, l'INFSPM de Jijel allie rigueur académique et environnement d'études agréable. Il forme les futurs professionnels avec un fort engagement envers la communauté locale.",
     "specialties": [
       "isp",
       "kine",
@@ -332,7 +332,7 @@
     "wilaya": "Sétif",
     "location": "Sétif",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "Pôle universitaire majeur, Sétif abrite un INFSPM de haut niveau, reconnu pour son exigence pédagogique et ses infrastructures cliniques de simulation à la pointe de la technologie.",
     "specialties": [
       "isp",
       "kine",
@@ -363,7 +363,7 @@
     "wilaya": "Saïda",
     "location": "Saïda",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'INFSPM de Saïda forme le personnel paramédical de la région ouest avec un encadrement de qualité, privilégiant l'apprentissage par la pratique au sein des structures de santé de la wilaya.",
     "specialties": [
       "isp",
       "manip-radio",
@@ -391,7 +391,7 @@
     "wilaya": "Skikda",
     "location": "Skikda",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "Situé sur la côte est, l'institut de Skikda est reconnu pour son dynamisme et la diversité de ses programmes, avec une forte demande pour ses formations en laboratoire et manipulation radio.",
     "specialties": [
       "isp",
       "manip-radio",
@@ -420,7 +420,7 @@
     "wilaya": "Sidi Bel Abbès",
     "location": "Sidi Bel Abbès",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'INFSPM de Sidi Bel Abbès est un centre de formation historique dans l'Ouest algérien. Il est réputé pour l'excellence de son corps professoral et ses liens étroits avec le CHU de la ville.",
     "specialties": [
       "isp",
       "kine",
@@ -454,7 +454,7 @@
     ],
     "location": "Constantine",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'institut de Constantine, ville des ponts, est l'un des piliers de la formation paramédicale dans l'Est. Il offre des programmes complets avec un fort taux de réussite et d'intégration professionnelle.",
     "specialties": [
       "isp",
       "diet",
@@ -484,7 +484,7 @@
     "wilaya": "Médéa",
     "location": "Médéa",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'INFSPM de Médéa offre un environnement d'apprentissage structuré et convivial, spécialisé dans les formations d'infirmiers, de laborantins et de préparateurs en pharmacie pour la région du Titteri.",
     "specialties": [
       "isp",
       "manip-radio",
@@ -511,7 +511,7 @@
     "wilaya": "Mostaganem",
     "location": "Mostaganem",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "Sur le littoral ouest, l'institut de Mostaganem attire des étudiants de toute la région pour la qualité de son enseignement et sa large couverture des spécialités médicales et sociales.",
     "specialties": [
       "isp",
       "manip-radio",
@@ -541,7 +541,7 @@
     "wilaya": "M'Sila",
     "location": "M'Sila",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'INFSPM de M'Sila est un acteur essentiel du développement sanitaire dans la région du Hodna. Il forme des cadres paramédicaux compétents, directement opérationnels sur le terrain.",
     "specialties": [
       "isp",
       "manip-radio",
@@ -569,7 +569,7 @@
     "wilaya": "Mascara",
     "location": "Mascara",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'institut de Mascara, riche de son histoire, dispense une formation paramédicale moderne et adaptée aux standards internationaux, avec des spécialités très prisées comme l'ergothérapie.",
     "specialties": [
       "isp",
       "kine",
@@ -599,7 +599,7 @@
     "wilaya": "Ouargla",
     "location": "Ouargla",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "Pôle incontournable du sud-est, l'INFSPM d'Ouargla forme l'essentiel du personnel de santé de la région pétrolière, offrant des formations de pointe adaptées aux réalités du terrain saharien.",
     "specialties": [
       "isp",
       "kine",
@@ -629,7 +629,7 @@
     "wilaya": "Oran",
     "location": "Oran",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'INFSPM d'Oran, véritable institution dans l'Ouest, offre un panel de 11 spécialités. Son intégration dans le tissu hospitalo-universitaire oranais garantit des stages cliniques de très haute qualité.",
     "specialties": [
       "isp",
       "prothese",
@@ -663,7 +663,7 @@
     "wilaya": "Ain Defla",
     "location": "Ain Defla",
     "bacAverage": 14,
-    "description": "Institut National de Formation Supérieure Paramédicale.",
+    "description": "L'institut d'Aïn Defla, situé dans la plaine du Chélif, est reconnu pour son sérieux et la compétence de ses diplômés qui viennent renforcer le secteur de la santé dans toute la région.",
     "specialties": [
       "isp",
       "manip-radio",
@@ -691,7 +691,7 @@
     "wilaya": "Tlemcen",
     "location": "Tlemcen",
     "bacAverage": 14,
-    "description": "Institut National de Sages-Femmes.",
+    "description": "L'Institut National de Formation Supérieure des Sages-Femmes (INFSSF) de Tlemcen est un établissement d'excellence entièrement dédié à l'obstétrique, la périnatalité et la santé maternelle dans l'Ouest.",
     "specialties": [
       "sage-femme"
     ],
@@ -715,7 +715,7 @@
     "wilaya": "Tizi Ouzou",
     "location": "Tizi Ouzou",
     "bacAverage": 14,
-    "description": "Institut National de Sages-Femmes.",
+    "description": "L'INFSSF de Tizi Ouzou est un centre de référence en Kabylie pour la formation des sages-femmes. Il se distingue par son enseignement clinique rigoureux et son engagement pour la santé des mères et des enfants.",
     "specialties": [
       "sage-femme"
     ],
@@ -739,7 +739,7 @@
     "wilaya": "Annaba",
     "location": "Annaba",
     "bacAverage": 14,
-    "description": "Institut National de Sages-Femmes.",
+    "description": "Basé à Annaba, cet institut de sages-femmes forme l'élite des professionnels de la maternité de l'Est algérien, combinant théorie médicale poussée et pratique intensive en salle d'accouchement.",
     "specialties": [
       "sage-femme"
     ],

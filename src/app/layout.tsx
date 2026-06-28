@@ -3,6 +3,7 @@ import { cookies } from "next/headers";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import { LanguageProvider, Language } from "@/components/LanguageContext";
+import Script from "next/script";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -23,10 +24,12 @@ export default async function RootLayout({
   return (
     <html lang={locale} dir={dir} className="scroll-smooth" data-scroll-behavior="smooth">
       <head>
-        <script
+        <meta name="google-adsense-account" content="ca-pub-5603304619422783" />
+        <Script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5603304619422783"
           crossOrigin="anonymous"
+          strategy="beforeInteractive"
         />
       </head>
       <body className="flex flex-col min-h-screen">
