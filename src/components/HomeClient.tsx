@@ -64,8 +64,8 @@ export default function HomeClient() {
               {language === 'ar' ? 'الوثائق' : 'Documentation'}
             </Link>
             <span className="opacity-30">|</span>
-            <a href="https://instagram.com/PRO_DESIGN8825" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-              Instagram (@PRO_DESIGN8825)
+            <a href="https://instagram.com/PRO_DESIGN__25" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+              Instagram (@PRO_DESIGN__25)
             </a>
             <span className="opacity-30">|</span>
             <Link href="/a-propos" className="hover:text-primary transition-colors">
