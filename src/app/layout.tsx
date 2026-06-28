@@ -24,6 +24,7 @@ export default async function RootLayout({
   return (
     <html lang={locale} dir={dir} className="scroll-smooth" data-scroll-behavior="smooth">
       <head>
+        <meta name="google-site-verification" content="D963Gdp00C6HC4wRswWnmfFTU3g8UzJWbj4ag7BpRkI" />
         <meta name="google-adsense-account" content="ca-pub-5603304619422783" />
         <Script
           async
