@@ -43,11 +43,11 @@ export const WILAYAS_AR: Record<string, string> = {
   "bordj bou-arreridj": "برج بوعريريج",
   "boumerdès": "بومرداس",
   "boumerdes": "بومرداس",
-  "eltarf": "الطارف",
+  "el tarf": "الطارف",
   "tindouf": "تندوف",
   "tissemsilt": "تيسمسيلت",
   "el oued": "الوادي",
-  "khenchla": "خنشلة",
+  "khenchela": "خنشلة",
   "souk ahras": "سوق أهراس",
   "tipaza": "تيبازة",
   "mila": "ميلة",
@@ -60,7 +60,7 @@ export const WILAYAS_AR: Record<string, string> = {
   "ghardaïa": "غرداية",
   "ghardaia": "غرداية",
   "relizane": "غليزان",
-  "el mghaier": "المغير",
+  "el m'ghair": "المغير",
   "touggourt": "تقرت",
   "ouled djellal": "أولاد جلال",
   "béni abbès": "بني عباس",
@@ -267,9 +267,9 @@ export function translateWilaya(wilaya: string, lang: 'fr' | 'ar'): string {
     const FR_NORMALIZED: Record<string, string> = {
       "sidi bel abbes": "Sidi Bel Abbès",
       "sidi bel abbès": "Sidi Bel Abbès",
-      "eltarf": "El Tarf",
-      "khenchla": "Khenchela",
-      "el mghaier": "El M'Ghair",
+      "el tarf": "El Tarf",
+      "khenchela": "Khenchela",
+      "el m'ghair": "El M'Ghair",
     };
     return FR_NORMALIZED[cleaned] || wilaya;
   }

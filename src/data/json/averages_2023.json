@@ -127,7 +127,7 @@
     "year": 2023,
     "session": 1,
     "average": 12.63,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-batna",
@@ -137,7 +137,7 @@
     "year": 2023,
     "session": 2,
     "average": 13.52,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-batna",
@@ -167,7 +167,7 @@
     "year": 2023,
     "session": 1,
     "average": 13.56,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-batna",
@@ -197,7 +197,7 @@
     "year": 2023,
     "session": 1,
     "average": 13.25,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-batna",
@@ -247,7 +247,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.62,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-batna",
@@ -337,7 +337,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.31,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-batna",
@@ -366,7 +366,7 @@
     "specialtyName": "ASSISTANTS MEDICAUX DE SANTE PUBLIQUE",
     "year": 2023,
     "session": 1,
-    "average": 16.0,
+    "average": 16,
     "targetWilaya": "Oum El Bouaghi"
   },
   {
@@ -447,7 +447,7 @@
     "year": 2023,
     "session": 1,
     "average": 13.97,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-batna",
@@ -457,7 +457,7 @@
     "year": 2023,
     "session": 2,
     "average": 12.57,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-bejaia",
@@ -787,7 +787,7 @@
     "year": 2023,
     "session": 1,
     "average": 13.7,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-biskra",
@@ -977,7 +977,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.95,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-biskra",
@@ -1007,7 +1007,7 @@
     "year": 2023,
     "session": 1,
     "average": 13.1,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-biskra",
@@ -1747,7 +1747,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.85,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-tebessa",
@@ -1756,7 +1756,7 @@
     "specialtyName": "MANIPULATEURS EN IMAGERIE MEDICALE DE SANTE PUBLIQUE",
     "year": 2023,
     "session": 1,
-    "average": 15.0,
+    "average": 15,
     "targetWilaya": "Tebessa"
   },
   {
@@ -1787,7 +1787,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.05,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-tebessa",
@@ -1827,7 +1827,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.23,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-tebessa",
@@ -1877,7 +1877,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.27,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-tebessa",
@@ -1887,7 +1887,7 @@
     "year": 2023,
     "session": 2,
     "average": 15.28,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-tebessa",
@@ -2667,7 +2667,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.98,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-alger",
@@ -2707,7 +2707,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.93,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-alger",
@@ -3097,7 +3097,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.09,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-alger",
@@ -3117,7 +3117,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.57,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-alger",
@@ -3397,7 +3397,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.94,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-alger",
@@ -3427,7 +3427,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.52,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-alger",
@@ -3517,7 +3517,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.75,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-alger",
@@ -3737,7 +3737,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.27,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-alger",
@@ -4037,7 +4037,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.87,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-alger",
@@ -4097,7 +4097,7 @@
     "year": 2023,
     "session": 1,
     "average": 13.22,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-alger",
@@ -4416,7 +4416,7 @@
     "specialtyName": "ASSISTANTS MEDICAUX DE SANTE PUBLIQUE",
     "year": 2023,
     "session": 1,
-    "average": 14.0,
+    "average": 14,
     "targetWilaya": "Alger"
   },
   {
@@ -4617,7 +4617,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.98,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-jijel",
@@ -4707,7 +4707,7 @@
     "year": 2023,
     "session": 1,
     "average": 13.86,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-jijel",
@@ -4717,7 +4717,7 @@
     "year": 2023,
     "session": 2,
     "average": 14.48,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-jijel",
@@ -4827,7 +4827,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.7,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-setif",
@@ -4857,7 +4857,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.89,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-setif",
@@ -5127,7 +5127,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.72,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-skikda",
@@ -5167,7 +5167,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.13,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-skikda",
@@ -5217,7 +5217,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.31,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-skikda",
@@ -5307,7 +5307,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.19,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-sidi-bel-abbes",
@@ -5647,7 +5647,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.08,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-constantine",
@@ -5667,7 +5667,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.05,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-constantine",
@@ -5677,7 +5677,7 @@
     "year": 2023,
     "session": 2,
     "average": 16.12,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-constantine",
@@ -5777,7 +5777,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.81,
-    "targetWilaya": "Eltarf"
+    "targetWilaya": "el tarf"
   },
   {
     "instituteId": "infspm-constantine",
@@ -6007,7 +6007,7 @@
     "year": 2023,
     "session": 1,
     "average": 15.45,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-constantine",
@@ -6647,7 +6647,7 @@
     "year": 2023,
     "session": 1,
     "average": 14.3,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-msila",
@@ -6657,7 +6657,7 @@
     "year": 2023,
     "session": 2,
     "average": 16.11,
-    "targetWilaya": "Khenchla"
+    "targetWilaya": "khenchela"
   },
   {
     "instituteId": "infspm-msila",
@@ -6666,7 +6666,7 @@
     "specialtyName": "ASSISTANTS SOCIAUX DE SANTE PUBLIQUE",
     "year": 2023,
     "session": 1,
-    "average": 13.0,
+    "average": 13,
     "targetWilaya": "Ghardaia"
   },
   {
@@ -6687,7 +6687,7 @@
     "year": 2023,
     "session": 1,
     "average": 12.05,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-msila",
@@ -6697,7 +6697,7 @@
     "year": 2023,
     "session": 2,
     "average": 12.65,
-    "targetWilaya": "El Mghaier"
+    "targetWilaya": "el m'ghair"
   },
   {
     "instituteId": "infspm-msila",
@@ -6816,7 +6816,7 @@
     "specialtyName": "MANIPULATEURS EN IMAGERIE MEDICALE DE SANTE PUBLIQUE",
     "year": 2023,
     "session": 2,
-    "average": 17.0,
+    "average": 17,
     "targetWilaya": "Relizane"
   },
   {
@@ -7786,7 +7786,7 @@
     "specialtyName": "HYGIENISTES DE SANTE PUBLIQUE",
     "year": 2023,
     "session": 1,
-    "average": 15.0,
+    "average": 15,
     "targetWilaya": "Ain Temouchent"
   },
   {
@@ -8006,7 +8006,7 @@
     "specialtyName": "INFIMIERS DE SANTE PUBLIQUE",
     "year": 2023,
     "session": 1,
-    "average": 15.0,
+    "average": 15,
     "targetWilaya": "Ain Defla"
   },
   {
