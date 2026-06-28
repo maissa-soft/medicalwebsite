@@ -261,7 +261,7 @@ export const UI_TRANSLATIONS: Record<string, Record<'fr' | 'ar', string>> = {
 export function translateWilaya(wilaya: string, lang: 'fr' | 'ar'): string {
   if (!wilaya) return wilaya;
   const cleaned = wilaya.trim().toLowerCase();
-  
+
   if (lang === 'fr') {
     // Normalisations françaises pour accents et majuscules
     const FR_NORMALIZED: Record<string, string> = {
@@ -273,7 +273,7 @@ export function translateWilaya(wilaya: string, lang: 'fr' | 'ar'): string {
     };
     return FR_NORMALIZED[cleaned] || wilaya;
   }
-  
+
   return WILAYAS_AR[cleaned] || wilaya;
 }
 
