@@ -48,7 +48,7 @@ export function useAverageFilters(allRows: any[], filters: { wilaya: string, spe
       let matchScore = true;
       if (filters.score && !isNaN(parseFloat(filters.score))) {
         const score = parseFloat(filters.score);
-        matchScore = row.average > 0 && score >= row.average;
+        matchScore = row.average > 0 && (score + 0.10) >= row.average;
       }
 
       return matchWilaya && matchSpecialty && matchScore;
